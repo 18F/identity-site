@@ -20,4 +20,4 @@ If you do not receive your letter, or your confirmation code expires before you 
 {: .number-list}
 
 ## Related articles
-- [Verify your identity](help/verify-your-identity/how-to-verify-your-identity/)
+- [Verify your identity](/help/verify-your-identity/how-to-verify-your-identity/)
