@@ -1,7 +1,7 @@
 ---
 title: Pièce d'identité délivrée par l'État acceptée
 category: verify-your-identity
-order: 2
+order: 3
 ---
 Pour l'instant, seules les pièces d'identité suivantes, délivrées par l'État, sont acceptées:
 

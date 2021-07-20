@@ -1,7 +1,7 @@
 ---
 title: Cómo verificar su identidad
 category: verify-your-identity
-order: 1
+order: 2
 ---
 
 Algunas aplicaciones gubernamentales requieren verificación de identidad. Esta capa adicional de seguridad requiere que pruebes que eres tú y no alguien que finge ser tú.
