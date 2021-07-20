@@ -15,7 +15,7 @@ Ten en mente que si no recibes la carta o si el código de confirmación caduca 
 
 1. Ve a [https://secure.login.gov](https://secure.login.gov).
 2. Selecciona "Deseo obtener un código nuevo de confirmación" cuando se te pida que ingreses el código.
-    {: .number-list}
+{: .number-list}
 
 ## Artículos relacionados 
 
