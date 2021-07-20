@@ -27,5 +27,5 @@ Vous pouvez utiliser un numéro de téléphone professionnel s'il s'agit de votr
 Pour l'instant, vous ne pouvez pas utiliser un numéro VOIP pour la vérification d'identité. 
 
 Articles connexes 
-- Vérifier votre identité
-- Vérification par courrier
+- [Vérifier votre identité](/fr/help/verify-your-identity/how-to-verify-your-identity/)
+- [Vérification par courrier](/fr/help/verify-your-identity/verify-your-address-by-mail/)

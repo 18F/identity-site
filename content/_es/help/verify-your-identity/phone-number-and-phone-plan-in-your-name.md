@@ -26,5 +26,5 @@ Puede utilizar un número de teléfono del trabajo si es su número de teléfono
 En este momento no puede utilizar un número VOIP para la verificación de su identidad.
 
 Artículos relacionados 
-- Verifique su identidad
-- Verificar por correo
+- [Verifique su identidad](/es/help/verify-your-identity/how-to-verify-your-identity/)
+- [Verificar por correo](/es/help/verify-your-identity/verify-your-address-by-mail/)
