@@ -18,4 +18,4 @@ Si vous ne recevez pas votre lettre ou si votre code de confirmation expire avan
    {: .number-list}
 
 ## Articles Liés
-- [Vérifier votre identité](/es/help/verify-your-identity/how-to-verify-your-identity/)
+- [Vérifier votre identité](/fr/help/verify-your-identity/how-to-verify-your-identity/)

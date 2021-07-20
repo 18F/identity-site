@@ -26,6 +26,6 @@ Vous pouvez utiliser un numéro de téléphone professionnel s'il s'agit de votr
 **Que se passe-t-il si j'utilise un numéro Google voice ou un numéro VOIP (Voice Over Internet Protocol) similaire?** 
 Pour l'instant, vous ne pouvez pas utiliser un numéro VOIP pour la vérification d'identité. 
 
-Articles connexes 
+## Articles connexes 
 - [Vérifier votre identité](/fr/help/verify-your-identity/how-to-verify-your-identity/)
 - [Vérification par courrier](/fr/help/verify-your-identity/verify-your-address-by-mail/)

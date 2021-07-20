@@ -26,6 +26,6 @@ You can use a work phone number if it is your primary phone number. We will atte
 **What if I use a Google voice or similar VOIP (Voice Over Internet Protocol) number?**\
 You cannot use a VOIP number for identity verification at this time.
 
-Related articles
+## Related articles
 - [Verify your identity](/help/verify-your-identity/how-to-verify-your-identity/)
 - [Verify by mail](/help/verify-your-identity/verify-your-address-by-mail/)

@@ -25,6 +25,6 @@ Puede utilizar un número de teléfono del trabajo si es su número de teléfono
 **¿Qué ocurre si utilizo un número de Google Voice o un número VOIP (Voice Over Internet Protocol) similar?** 
 En este momento no puede utilizar un número VOIP para la verificación de su identidad.
 
-Artículos relacionados 
+## Artículos relacionados 
 - [Verifique su identidad](/es/help/verify-your-identity/how-to-verify-your-identity/)
 - [Verificar por correo](/es/help/verify-your-identity/verify-your-address-by-mail/)
