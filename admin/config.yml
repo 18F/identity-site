@@ -18,7 +18,7 @@ backend:
 #
 # backend:
 #   name: git-gateway
-#   branch: jd-LG-4639-what-is-login-page
+#   branch: jd-LG-3456-about-us-page
 #   proxy_url: http://localhost:8081/api/v1
 # local_backend: true
 
@@ -153,16 +153,16 @@ collections:
           name: 'sidenav',
           widget: 'select',
           default: 'policies',
-          options: ['policies', 'accessibility', 'contact_us', 'none'],
+          options: ['policies', 'accessibility', 'contact_us', about_us, 'none'],
           i18n: duplicate,
         }
       - { label: 'Title', name: 'title', widget: 'string', tagname: 'h1', i18n: true }
-      - { label: 'Description', name: 'description', widget: 'string', i18n: true }
+      - { label: 'Description', name: 'description', widget: 'string', i18n: true, required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', i18n: true }
       - { label: 'Permalink', name: 'permalink', widget: 'string', i18n: true }
       - { label: 'Redirect from', name: 'redirect_from', widget: list, required: false, i18n: true }
       - { label: 'Redirect to', name: 'redirect_to', widget: 'string', required: false, i18n: true }
-      - { label: 'Order', name: 'index', widget: 'number', i18n: duplicate }
+      - { label: 'Order', name: 'index', widget: 'number', i18n: duplicate, required: false }
   - label: Contact us
     name: contact
     folder: content/

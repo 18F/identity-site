@@ -155,6 +155,17 @@ help_subpages:
   specific-agencies: Help with specific agencies
   verify-your-identity: Verify your identity
 nav:
+  about_us:
+    title: About us
+    sections:
+      - name: Our mission
+        url: '#our-mission'
+      - name: Our vision
+        url: '#our-vision'
+      - name: Team
+        url: '#team'
+      - name: About login.gov
+        url: '#about-logingov'
   accessibility:
     title: Accessibility statement
     sections:
@@ -167,7 +178,6 @@ nav:
       - name: Known limitations
         url: '#known-limitations'
   anchor_to_top: Back to top
-  about_us: About us
   become_a_partner: Become a partner
   contact_us:
     title: Contact us

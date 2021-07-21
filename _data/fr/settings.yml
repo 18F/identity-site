@@ -157,6 +157,17 @@ help_subpages:
   specific-agencies: Aide aux agences spécifiques
   verify-your-identity: Vérifiez votre identité
 nav:
+  about_us:
+    title: À propos de nous
+    sections:
+      - name: Notre mission
+        url: '#notre-mission'
+      - name: Notre vision
+        url: '#notre-vision'
+      - name: L’équipe 
+        url: '#léquipe'
+      - name: À propos de login.gov 
+        url: '#à-propos-de-logingov'
   accessibility:
     title: Accessibilité
     sections:
@@ -168,7 +179,6 @@ nav:
         url: '#évaluation'
       - name: Limites connues
         url: '#limites-connues'
-  about_us: À propos de nous
   anchor_to_top: Retour au sommet
   become_a_partner: Devenir un partenaire
   contact_us:
