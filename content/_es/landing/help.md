@@ -1,6 +1,6 @@
 ---
 title: Ayuda
-description: Obtenga respuestas a preguntas comunes sobre login.gov.
+description: Obtenga respuestas a preguntas comunes sobre Login.gov.
 layout: help_landing
 permalink: /es/help/
 hero: true

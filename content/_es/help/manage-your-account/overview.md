@@ -11,5 +11,5 @@ Administrar los ajustes de su cuenta, incluidos su contraseña, número de telé
 ## Temas más comunes de solución de problemas
 
 * [Cambiar su contraseña](/es/help/manage-your-account/change-your-password/)
-* [Eliminar su cuenta de login.gov](/es/help/manage-your-account/delete-your-account/)
+* [Eliminar su cuenta de Login.gov](/es/help/manage-your-account/delete-your-account/)
 {: .help-question-list}

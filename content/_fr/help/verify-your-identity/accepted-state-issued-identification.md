@@ -10,7 +10,7 @@ Permis de conduire de l'un des 50 États et des autres territoires américains (
 * Une carte d'identité délivrée par l'État autre que le permis de conduire.
 * Il s'agit d'un document d'identité délivré par l'État/le territoire américain qui atteste de l'identité mais ne donne pas le droit de conduire.
 
-  * Vous ne pouvez pas vérifier votre identité sur login.gov sans une pièce d'identité délivrée par l'État.
+  * Vous ne pouvez pas vérifier votre identité sur Login.gov sans une pièce d'identité délivrée par l'État.
 
 Nous travaillons actuellement à l'ajout de nouveaux moyens de vérifier votre identité.
 

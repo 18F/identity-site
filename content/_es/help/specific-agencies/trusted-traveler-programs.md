@@ -27,7 +27,7 @@ redirect_from:
   - /es/help/trusted-traveler-programs/will-my-ktn-known-traveler-number-change/
 ---
 
-Login.gov es sólo para acceder de forma segura. Su cuenta de login.gov no afecta ni tiene ninguna información sobre su solicitud, membresía o elegibilidad para los Programas de Viajeros de Confianza (TTP, por sus siglas en inglés). Por favor, no envíe datos confidenciales de login.gov sobre usted o números de identificación de miembros.
+Login.gov es sólo para acceder de forma segura. Su cuenta de Login.gov no afecta ni tiene ninguna información sobre su solicitud, membresía o elegibilidad para los Programas de Viajeros de Confianza (TTP, por sus siglas en inglés). Por favor, no envíe datos confidenciales de Login.gov sobre usted o números de identificación de miembros.
 
 Login.gov sólo puede responder a preguntas sobre el proceso de inicio de sesión y la creación de una cuenta en Login.gov.
 
@@ -38,9 +38,9 @@ Por favor, contacte directamente con el [Programa de Viajeros de Confianza](http
 * u otras inquietudes relacionadas
 
 Información importante:
-* Su número de viajero conocido (KTN, por sus siglas en inglés) no cambiará cuando cree una cuenta en login.gov.
-* No es necesario pagar por TTP nuevamente cuando se crea una cuenta de login.gov, a menos que sea el momento de renovar su membresía.
+* Su número de viajero conocido (KTN, por sus siglas en inglés) no cambiará cuando cree una cuenta en Login.gov.
+* No es necesario pagar por TTP nuevamente cuando se crea una cuenta de Login.gov, a menos que sea el momento de renovar su membresía.
 
 Para acceder a la información de su cuenta de Programas de Viajeros de Confianza, visite <https://ttp.cbp.dhs.gov/>.
 
-Si ingresa directamente desde la página de inicio de login.gov, sólo verá la información de su cuenta de login.gov.
+Si ingresa directamente desde la página de inicio de Login.gov, sólo verá la información de su cuenta de Login.gov.

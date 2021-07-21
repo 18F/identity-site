@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Parte 1: agregar una dirección de correo electrónico
-1. Inicie sesión en su cuenta de login.gov a través de <https://secure.login.gov>.
+1. Inicie sesión en su cuenta de Login.gov a través de <https://secure.login.gov>.
 1. Ingrese su contraseña y haga clic en iniciar sesión.
 1. Haga clic en el botón “Iniciar sesión”.
 1. Ingrese su método de autenticación.
@@ -17,7 +17,7 @@ redirect_from:
 1. Haga clic en el botón “Enviar”.
 1. Enviaremos un correo electrónico a su nueva dirección de correo electrónico.
   * Siga las instrucciones para confirmar su dirección de correo electrónico.
-  * Si usted no confirma su dirección de correo electrónico, no podrá utilizarla con su cuenta de login.gov.
+  * Si usted no confirma su dirección de correo electrónico, no podrá utilizarla con su cuenta de Login.gov.
   * No elimine la dirección de correo electrónico anterior hasta que haya confirmado la nueva.
 {: .number-list}
 

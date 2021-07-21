@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es login.gov?
+title: ¿Qué es Login.gov?
 description: Iniciar sesión en dependencias gubernamentales debería ser fácil y seguro.
 already_have_an_account_banner: true
 component:
@@ -8,10 +8,10 @@ component:
     ## **Una sola cuenta y contraseña**
 
 
-    Login.gov es un servicio de inicio de sesión seguro que utiliza el público para iniciar sesión en las dependencias gubernamentales participantes. Las dependencias participantes le pedirán crear una cuenta en login.gov para acceder de forma segura a su información en su sitio web o aplicación.
+    Login.gov es un servicio de inicio de sesión seguro que utiliza el público para iniciar sesión en las dependencias gubernamentales participantes. Las dependencias participantes le pedirán crear una cuenta en Login.gov para acceder de forma segura a su información en su sitio web o aplicación.
 
 
-    Puede usar el mismo nombre de usuario y contraseña para acceder a cualquier dependencia que se asocie con login.gov, lo cual agiliza su trámite y evita tener que recordar varios nombres de usuario y contraseñas.
+    Puede usar el mismo nombre de usuario y contraseña para acceder a cualquier dependencia que se asocie con Login.gov, lo cual agiliza su trámite y evita tener que recordar varios nombres de usuario y contraseñas.
 
 
     ### Login.gov se utiliza para proteger su cuenta cuando solicite:
@@ -36,9 +36,9 @@ component:
     ## **¿Cómo funciona?**
 
 
-    Las dependencias participantes usan login.gov para ayudar a proteger a sus usuarios. Cuando intente iniciar sesión en una dependencia participante, se le pedirá que inicie sesión o cree una cuenta con login.gov antes de poder acceder a su perfil en dicha dependencia.
+    Las dependencias participantes usan Login.gov para ayudar a proteger a sus usuarios. Cuando intente iniciar sesión en una dependencia participante, se le pedirá que inicie sesión o cree una cuenta con Login.gov antes de poder acceder a su perfil en dicha dependencia.
   bannercol1: >-
-    ### Todas las dependencias participantes utilizan login.gov para iniciar
+    ### Todas las dependencias participantes utilizan Login.gov para iniciar
     sesión de forma segura.
 
 

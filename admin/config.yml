@@ -62,7 +62,7 @@ collections:
           widget: 'select',
           options:
             [
-              { label: 'Get started with login.gov', value: 'get-started' },
+              { label: 'Get started with Login.gov', value: 'get-started' },
               { label: 'Manage your account', value: 'manage-your-account' },
               { label: 'Trouble signing in?', value: 'trouble-signing-in' },
               { label: 'Verify your identity', value: 'verify-your-identity' },
@@ -125,11 +125,11 @@ collections:
         fields:
             - { label: 'Class', name: 'class', required: false, widget: 'string',  i18n: duplicate }
             - { label: 'Heading', name: 'heading', widget: 'string', required: false, i18n: true}
-            - { label: 'Subheading 1', name: 'subheading1', widget: 'string', required: false, i18n: true}            
+            - { label: 'Subheading 1', name: 'subheading1', widget: 'string', required: false, i18n: true}
             - { label: 'Column 1', name: 'col1', widget: 'markdown', required: false, i18n: true }
-            - { label: 'Subheading 2', name: 'subheading2', widget: 'string', required: false, i18n: true}             
+            - { label: 'Subheading 2', name: 'subheading2', widget: 'string', required: false, i18n: true}
             - { label: 'Column 2', name: 'col2', widget: 'markdown', required: false, i18n: true }
-            - { label: 'Subheading 3', name: 'subheading3', widget: 'string', required: false, i18n: true}             
+            - { label: 'Subheading 3', name: 'subheading3', widget: 'string', required: false, i18n: true}
             - { label: 'Column 3', name: 'col3', widget: 'markdown', required: false, i18n: true }
       - { label: 'Permalink', name: 'permalink', widget: 'string', i18n: true }
       - { label: 'Twitter card', name: 'twitter_card', widget: 'select', default: 'large', i18n: duplicate, options: ['small', 'large'] }

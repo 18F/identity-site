@@ -10,7 +10,7 @@ Licencia de conducir de los 50 estados y otros territorios de Estados Unidos (Gu
 * Una tarjeta de identificación estatal para no conductores
 * Se trata de un documento de identidad emitido por un estado o territorio de los Estados Unidos que acredita la identidad, pero no otorga derechos de conducción.
 
-  * No puedes verificar tu identidad en login.gov sin un documento de identidad estatal.
+  * No puedes verificar tu identidad en Login.gov sin un documento de identidad estatal.
 
 Actualmente, estamos trabajando para agregar más formas de verificar tu identidad.
 

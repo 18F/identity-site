@@ -7,13 +7,11 @@ order: 2
 __Quizá tenga que eliminar una cuenta por diferentes razones:__
 * Advierte que tiene varias cuentas con diferentes direcciones de correo electrónico y quiere tener una sola cuenta
 * Se ha bloqueado su cuenta y ha perdido el acceso a sus métodos de autenticación
-* Ya no necesita una cuenta de login.gov
-
+* Ya no necesita una cuenta de Login.gov
 __Si elimina su cuenta:__
 * Eliminaremos su dirección de correo electrónico, contraseña y número de teléfono
-* Usted no podrá acceder de forma segura a las agencias asociadas que requieren una cuenta de login.gov
-
-Después de que elimine su cuenta, no podrá acceder a las aplicaciones gubernamentales a las que suele acceder con su cuenta de login.gov. Sin embargo, no perderá su información en esas aplicaciones, pero necesitará una cuenta nueva de login.gov para poder iniciar sesión en esas aplicaciones.
+* Usted no podrá acceder de forma segura a las agencias asociadas que requieren una cuenta de Login.gov
+Después de que elimine su cuenta, no podrá acceder a las aplicaciones gubernamentales a las que suele acceder con su cuenta de Login.gov. Sin embargo, no perderá su información en esas aplicaciones, pero necesitará una cuenta nueva de Login.gov para poder iniciar sesión en esas aplicaciones.
 
 __Si tiene acceso a sus métodos de autenticación, realice los siguientes pasos para eliminar su cuenta:__
 

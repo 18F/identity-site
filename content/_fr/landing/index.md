@@ -19,7 +19,7 @@ three_col:
     gouvernementales participantes.
 
 
-    [En savoir plus sur login.gov](https://login.gov/fr/what-is-login/){:class="why-more-info"}
+    [En savoir plus sur Login.gov](https://login.gov/fr/what-is-login/){:class="why-more-info"}
   subheading2: Partenaires de l’agence
   col2: >-
     Protégez les informations de vos utilisateurs avec les plus hauts standards
@@ -32,7 +32,7 @@ three_col:
   subheading3: Développeurs d’agence
   col3: >-
     Ressources de développement, support en temps réel et outils modernes pour
-    vous aider à implémenter et déployer votre application avec login.gov
+    vous aider à implémenter et déployer votre application avec Login.gov
 
 
     [Voir le guide du développeur](https://developers.login.gov/){:class="why-more-info"}

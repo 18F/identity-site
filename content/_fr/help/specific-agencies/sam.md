@@ -24,11 +24,11 @@ redirect_from:
   - /fr/help/sam/reset-or-relink-my-logingov-account-for-sam/
 ---
 
-Login.gov est réservé à l'identification sécurisée. Votre compte login.gov n’affecte pas et ne contient aucune information sur votre compte, votre candidature, votre statut, votre adhésion ou votre éligibilité au Système de capture des prix (SAM).
+Login.gov est réservé à l'identification sécurisée. Votre compte Login.gov n’affecte pas et ne contient aucune information sur votre compte, votre candidature, votre statut, votre adhésion ou votre éligibilité au Système de capture des prix (SAM).
 
-Veuillez ne pas envoyer de données sensibles de login.gov vous concernant ou concernant l’application SAM.
+Veuillez ne pas envoyer de données sensibles de Login.gov vous concernant ou concernant l’application SAM.
 
-Login.gov peut uniquement répondre aux questions concernant le processus de connexion et la création d’un compte login.gov.
+Login.gov peut uniquement répondre aux questions concernant le processus de connexion et la création d’un compte Login.gov.
 
 Veuillez contacter directement [SAM.gov](https://sam.gov/SAM/pages/public/index.jsf) si vous avez des questions à ce sujet :
 * Enregistrement de la demande, éligibilité, statut ou changements
@@ -40,8 +40,7 @@ Pour apporter des modifications à votre profil de compte SAM.gov, vous devez vo
 
 Contactez le Federal Service Desk au 866-606-8220 (frais de péage) ou au 334-206-7828 (international) pour obtenir de l’aide, ou soumettez votre demande via le formulaire web à [www.fsd.gov](https://www.fsd.gov/).
 
-## Notes importantes pour la création de votre compte login.gov et l’accès à votre profil SAM :
-* Si vous avez déjà un compte SAM, utilisez le même courriel que celui utilisé pour votre compte SAM pour créer votre compte login.gov
-    * Si vous utilisez le même courriel pour créer votre profil login.gov, vous conserverez tous vos dossiers, demandes d’accès aux données et recherches sauvegardées.
+## Notes importantes pour la création de votre compte Login.gov et l’accès à votre profil SAM :
+* Si vous avez déjà un compte SAM, utilisez le même courriel que celui utilisé pour votre compte SAM pour créer votre compte Login.gov     * Si vous utilisez le même courriel pour créer votre profil Login.gov, vous conserverez tous vos dossiers, demandes d’accès aux données et recherches sauvegardées.
     * Si vous utilisez une nouvelle adresse électronique, rien n’arrivera à votre profil SAM.gov, mais vous ne pourrez pas accéder aux informations de votre profil SAM.
-* Si vous avez déjà un compte login.gov et que vous souhaitez ajouter votre courriel SAM, vous pouvez le faire sur la page « Mon compte » de login.gov. Sélectionnez le bouton d’identification sur la page d’accueil de login.gov pour accéder à cette page de compte.
+* Si vous avez déjà un compte Login.gov et que vous souhaitez ajouter votre courriel SAM, vous pouvez le faire sur la page « Mon compte » de Login.gov. Sélectionnez le bouton d’identification sur la page d’accueil de Login.gov pour accéder à cette page de compte.

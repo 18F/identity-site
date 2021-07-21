@@ -2,9 +2,9 @@
 layout: landing
 permalink: /who-uses-login/
 one_account_banner: true
-title: Who uses login.gov?
+title: Who uses Login.gov?
 description: Login.gov is a trusted, government-issued sign in service. The
-  public uses login.gov for simple and secure access to the services our
+  public uses Login.gov for simple and secure access to the services our
   government partners provide.
 component:
   class: who-uses-login
@@ -26,8 +26,7 @@ component:
     Service](https://www.gsa.gov/about-us/organization/federal-acquisition-service)
 
 
-    Agencies choose login.gov because we provide a secure — and simple — solution. [Read more about our partner program](https://partners.login.gov).
+    Agencies choose Login.gov because we provide a secure — and simple — solution. [Read more about our partner program](https://partners.login.gov).
 twitter_card: large
 image: /assets/img/login-gov-600x314.png
 ---
-

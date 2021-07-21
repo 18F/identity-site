@@ -1,6 +1,6 @@
 ---
 title: Help
-description: Get answers to common questions about login.gov.
+description: Get answers to common questions about Login.gov.
 layout: help_landing
 permalink: /help/
 hero: true

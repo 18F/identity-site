@@ -1,6 +1,6 @@
 ---
 layout: help
-title: Get started with login.gov
+title: Get started with Login.gov
 category: get-started
 meta_title: Overview
 order: 0
@@ -31,9 +31,9 @@ redirect_from:
   - /help/creating-an-account/why-is-my-confirmation-link-invalid/
   - /help/get-started/
 ---
-Login.gov is the public's one account and password for government. Login.gov is a shared service and trusted by government agencies. With one login.gov account you can access applications from participating government partners.
+Login.gov is the public's one account and password for government. Login.gov is a shared service and trusted by government agencies. With one Login.gov account you can access applications from participating government partners.
 
-* [Create your login.gov account](/help/get-started/create-your-account/)
+* [Create your Login.gov account](/help/get-started/create-your-account/)
 * [Learn about authentication options](/help/get-started/authentication-options/)
-* [Why you are being asked to use login.gov](/what-is-login/)
+* [Why you are being asked to use Login.gov](/what-is-login/)
 {: .help-question-list}

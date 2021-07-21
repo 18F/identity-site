@@ -1,5 +1,5 @@
 ---
-title: Comment se connecter à login.gov
+title: Comment se connecter à Login.gov
 category: trouble-signing-in
 order: 1
 redirect_from:
@@ -7,9 +7,9 @@ redirect_from:
   - /fr/help/signing-in/how-to-sign-in/
 ---
 
-Chaque fois que vous vous connecterez à votre compte login.gov, vous aurez besoin de votre adresse électronique, de votre mot de passe et d'un accès à l'une des méthodes d'authentification à deux facteurs que vous aurez mises en place.
+Chaque fois que vous vous connecterez à votre compte Login.gov, vous aurez besoin de votre adresse électronique, de votre mot de passe et d'un accès à l'une des méthodes d'authentification à deux facteurs que vous aurez mises en place.
 
-Suivez ces étapes pour vous connecter à login.gov.
+Suivez ces étapes pour vous connecter à Login.gov.
 
 1. Saisissez votre adresse électronique à l'adresse [https://secure.login.gov](https://secure.login.gov).
 1. Saisissez votre mot de passe.
@@ -20,7 +20,7 @@ Suivez ces étapes pour vous connecter à login.gov.
   * Saisie d'un code de sécurité que vous recevez par SMS ou par appel téléphonique
   * Saisie d'un code de sauvegarde
   * Utilisation de votre carte d'employé du gouvernement fédéral ou de votre carte d'identité militaire (PIV ou CAC))
-1. Vous serez ensuite dirigé vers la page de votre compte login.gov.
+1. Vous serez ensuite dirigé vers la page de votre compte Login.gov.
 {: .number-list}
 
 ## Articles connexes

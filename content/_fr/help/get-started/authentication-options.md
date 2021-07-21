@@ -16,7 +16,7 @@ redirect_from:
   - /fr/help/authentication-methods/
 ---
 
-En plus de votre mot de passe, login.gov exige que vous mettiez en place au moins une méthode d'authentification secondaire pour assurer la sécurité de votre compte. Il s'agit d'une authentification à deux facteurs (A2F). Nous utilisons l'A2F comme un niveau de protection supplémentaire pour sécuriser vos informations.
+En plus de votre mot de passe, Login.gov exige que vous mettiez en place au moins une méthode d'authentification secondaire pour assurer la sécurité de votre compte. Il s'agit d'une authentification à deux facteurs (A2F). Nous utilisons l'A2F comme un niveau de protection supplémentaire pour sécuriser vos informations.
 
 **Authentification secondaire**
 Nous vous conseillons d'ajouter deux méthodes d'authentification à votre compte. Si vous perdez l'accès à votre principale méthode d'authentification (c'est-à-dire si vous perdez votre téléphone), vous pourrez utiliser une deuxième option pour accéder à votre compte. Login.gov ne peut pas vous accorder l'accès à votre compte si vous vous faites bloquer et/ou si vous perdez votre méthode d'authentification.
@@ -28,7 +28,7 @@ Bien que vous avez le choix entre plusieurs options d'authentification, certaine
 
 Les applications d'authentification se téléchargent sur votre appareil et génèrent des codes de sécurité à six chiffres vous permettant de vous connecter à vos comptes. Bien que les applications d'authentification ne soient pas protégées en cas de perte ou de vol de votre appareil, cette méthode offre plus de sécurité que les appels téléphoniques ou les messages texte contre les tentatives d'hameçonnage, de piratage ou d'interception.
 
-Si vous choisissez cette option de sécurité, suivez les étapes suivantes pour télécharger et installer l'une des applications prises en charge et la configurer pour qu'elle fonctionne avec login.gov.
+Si vous choisissez cette option de sécurité, suivez les étapes suivantes pour télécharger et installer l'une des applications prises en charge et la configurer pour qu'elle fonctionne avec Login.gov.
 
 1. Choisissez un appareil, tel qu'un ordinateur ou un appareil mobile (téléphone ou tablette), sur lequel vous pouvez installer des applications.
 1. Téléchargez et installez une application d'authentification sur votre appareil. Voici quelques options populaires :
@@ -37,11 +37,11 @@ Si vous choisissez cette option de sécurité, suivez les étapes suivantes pour
    - Windows apps: [1Password](https://1password.com/), [OTP Manager](https://www.microsoft.com/en-us/store/p/otp-manager/9nblggh6hngn).
    - Mac apps: [1Password](https://1password.com/), [OTP Manager](https://itunes.apple.com/us/app/otp-manager/id928941247?mt=12).
    - Chrome extensions: [Authenticator](https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai?hl=en).
-1. Ouvrez un nouveau navigateur et connectez-vous à votre compte login.gov à l'adresse https://secure.login.gov/.
+1. Ouvrez un nouveau navigateur et connectez-vous à votre compte Login.gov à l'adresse https://secure.login.gov/.
 1. Sélectionnez « Activer » à côté de « Application d'authentification » et suivez les instructions pour scanner ou saisir un code associant votre application d'authentification à votre compte.
 {: .number-list}
 
-Vous pourrez désormais utiliser les codes à usage unique générés par l'application chaque fois que vous vous connecterez à login.gov.
+Vous pourrez désormais utiliser les codes à usage unique générés par l'application chaque fois que vous vous connecterez à Login.gov.
 
 ## Clé de sécurité
 
@@ -49,7 +49,7 @@ Une clé de sécurité est généralement un dispositif physique externe, comme 
 
 Login.gov exige des clés de sécurité répondant aux normes de la [FIDO (« Fast Identity Online », identité rapide en ligne)](https://fidoalliance.org). Vous pouvez ajouter autant de clés de sécurité que vous le souhaitez pour sécuriser votre compte.
 
-Pour utiliser cette option sécurisée pour vous authentifier sur login.gov, connectez la clé à un port USB et attribuez-lui un nom pour pouvoir l'identifier avec votre compte login.gov. L'étape suivante vous invitera à activer votre clé. Cela se fait généralement en appuyant sur un bouton présent sur la clé.
+Pour utiliser cette option sécurisée pour vous authentifier sur Login.gov, connectez la clé à un port USB et attribuez-lui un nom pour pouvoir l'identifier avec votre compte Login.gov. L'étape suivante vous invitera à activer votre clé. Cela se fait généralement en appuyant sur un bouton présent sur la clé.
 
 ## Cartes PIV ou CAC pour les employés du gouvernement et les militaires
 
@@ -63,13 +63,13 @@ Si vous choisissez d'utiliser cette option moins sécurisée, saisissez un numé
 
 Nous enverrons un code de sécurité unique à ce numéro de téléphone chaque fois que vous vous connecterez à votre compte Login.gov. Chaque code de sécurité expire au bout de dix minutes et ne peut être utilisé qu'une seule fois. Si vous n'avez pas saisi le code de sécurité au bout de dix minutes, demandez un nouveau code.
 
-Après avoir reçu le code, saisissez-le dans le champ « code de sécurité unique ». Chaque fois que vous vous connecterez sur login.gov, vous aurez le choix entre obtenir le nouveau code de sécurité par téléphone ou par message texte. Vous recevrez un nouveau code de sécurité chaque fois que vous vous connecterez à votre compte login.gov.
+Après avoir reçu le code, saisissez-le dans le champ « code de sécurité unique ». Chaque fois que vous vous connecterez sur Login.gov, vous aurez le choix entre obtenir le nouveau code de sécurité par téléphone ou par message texte. Vous recevrez un nouveau code de sécurité chaque fois que vous vous connecterez à votre compte Login.gov.
 
 ## Codes de secours (moins sécurisés)
 
 Les codes de secours sont une option accessible aux utilisateurs ne disposant pas d'un téléphone. Cependant, les codes de secours sont l'option la moins sécurisée pour une authentification à deux facteurs. Les codes de secours doivent être imprimés ou écrits, ce qui les rend plus vulnérables au vol et aux tentatives d'hameçonnage.
 
-Si vous sélectionnez cette option moins sécurisée, login.gov générera un ensemble de dix codes. Après vous être connecté avec votre nom d'utilisateur et votre mot de passe, un code vous sera demandé. Chaque code ne peut être utilisé qu'une seule fois. Lorsque le dixième code aura été utilisé, vous serez invité à télécharger une nouvelle liste. Traitez vos codes de secours avec les mêmes précautions que pour votre mot de passe.
+Si vous sélectionnez cette option moins sécurisée, Login.gov générera un ensemble de dix codes. Après vous être connecté avec votre nom d'utilisateur et votre mot de passe, un code vous sera demandé. Chaque code ne peut être utilisé qu'une seule fois. Lorsque le dixième code aura été utilisé, vous serez invité à télécharger une nouvelle liste. Traitez vos codes de secours avec les mêmes précautions que pour votre mot de passe.
 
 ## Pas de téléphone ni d’autre méthode d'authentification
 

@@ -8,7 +8,7 @@ redirect_from:
   - /help/changing-settings/how-do-i-change-my-password/
 ---
 
-Follow these steps to change your login.gov password.
+Follow these steps to change your Login.gov password.
 
 1. Enter your email address at [https://secure.login.gov](https://secure.login.gov).
 1. Enter your password.
@@ -19,7 +19,7 @@ Follow these steps to change your login.gov password.
 
    Passwords must be at least 12 characters. That's it! There are no other restrictions. You can even use more than one word with spaces to get to 12 characters. Try using a phrase or a series of words that only you recognize.
 
-   Your login.gov password should be different from passwords you use for other accounts such as your bank account or email. Using the same password for many accounts makes identity theft easier.
+   Your Login.gov password should be different from passwords you use for other accounts such as your bank account or email. Using the same password for many accounts makes identity theft easier.
 
 1. Click the “Change password” button.
 {: .number-list}

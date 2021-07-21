@@ -19,7 +19,7 @@ three_col:
     gubernamentales participantes.
 
 
-    [Más información sobre login.gov](https://login.gov/es/what-is-login/){:class="why-more-info"}
+    [Más información sobre Login.gov](https://login.gov/es/what-is-login/){:class="why-more-info"}
   subheading2: Socios de agencias
   col2: >-
     Proteja la información de sus usuarios con los más altos estándares de
@@ -33,7 +33,7 @@ three_col:
   col3: >-
     Recursos para desarrolladores, soporte en tiempo real y herramientas
     modernas para ayudarlo a implementar e implementar su aplicación con
-    login.gov
+    Login.gov
 
 
     [Ver guía para desarrolladores](https://developers.login.gov){:class="why-more-info"}

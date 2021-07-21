@@ -19,7 +19,7 @@ redirect_from:
 
 Algunos organismos participantes requieren que usted complete un proceso de verificación de identidad. La verificación de la identidad es un proceso en el que usted demuestra que es realmente usted y no alguien que pretende ser usted.
 
-Solo es necesario verificar su identidad una vez para su cuenta de login.gov. Después de verificar su identidad con login.gov para una solicitud gubernamental, no es necesario hacerlo nuevamente para otras solicitudes gubernamentales que utilicen login.gov y requieran verificación de identidad.
+Solo es necesario verificar su identidad una vez para su cuenta de Login.gov. Después de verificar su identidad con Login.gov para una solicitud gubernamental, no es necesario hacerlo nuevamente para otras solicitudes gubernamentales que utilicen Login.gov y requieran verificación de identidad.
 
 Utilice esta sección de ayuda para conocer el proceso y los requisitos relacionados con la verificación de la identidad.
 

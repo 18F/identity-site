@@ -1,7 +1,7 @@
 ---
-title: ¿Quién usa login.gov?
+title: ¿Quién usa Login.gov?
 description: Login.gov es un servicio de inicio de sesión de confianza emitido
-  por el gobierno. El público usa login.gov para tener acceso simple y seguro a
+  por el gobierno. El público usa Login.gov para tener acceso simple y seguro a
   los servicios que brindan nuestros socios gubernamentales.
 one_account_banner: true
 component:
@@ -28,7 +28,7 @@ component:
     adquisiciones](https://www.gsa.gov/about-us/organization/federal-acquisition-service)
 
 
-    Las agencias eligen login.gov porque ofrecemos una solución segura y sencilla. [Lea más sobre nuestro programa de socios](https://partners.login.gov).
+    Las agencias eligen Login.gov porque ofrecemos una solución segura y sencilla. [Lea más sobre nuestro programa de socios](https://partners.login.gov).
 permalink: /es/who-uses-login/
 twitter_card: large
 image: /assets/img/login-gov-600x314.png

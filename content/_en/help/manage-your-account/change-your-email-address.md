@@ -11,7 +11,7 @@ redirect_from:
 Follow these steps to change the email address associated with your account.
 
 ## Part 1: Add email address
-1. Sign in to your login.gov account <https://secure.login.gov>.
+1. Sign in to your Login.gov account <https://secure.login.gov>.
 1. Enter your password and click sign in.
 1. Click the “Sign in” button.
 1. Enter your authentication method
@@ -20,7 +20,7 @@ Follow these steps to change the email address associated with your account.
 1. Click the “Submit” button.
 1. We will send an email to your new email address.
   * Follow the prompts to confirm your email address.
-  * If you do not confirm your email address, you will not be able to use it with your login.gov account.
+  * If you do not confirm your email address, you will not be able to use it with your Login.gov account.
   * Do not remove the old email address until you have confirmed your new email address.
 {: .number-list}
 

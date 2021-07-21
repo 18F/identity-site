@@ -59,38 +59,35 @@ contact_page:
     submit: Enviar
     subtopics:
       account_locked: Mi cuenta está bloqueada desde hace 24 horas
-      add_family_member: ¿Cómo añado un familiar a mi cuenta de login.gov?
+      add_family_member: ¿Cómo añado un familiar a mi cuenta de Login.gov?
       agency_app: Problema con la aplicación de la agencia
       authentication_app: Tengo una aplicación de autenticación pero no funciona
       authentication_app_setup: ¿Cómo configuro una aplicación de autenticación?
       backup_codes: ¿Cómo utilizo mis códigos de copia de seguridad para iniciar sesión?
       blank_screen: Veo un error/pantalla en blanco al crear mi cuenta
       change_email: ¿Cómo cambio mi correo electrónico?
-      change_password: ¿Cómo actualizo mi contraseña de login.gov?
+      change_password: ¿Cómo actualizo mi contraseña de Login.gov?
       change_phone_number: ¿Cómo cambio mi número de teléfono?
-      delete_account: ¿Cómo elimino mi cuenta de login.gov?
-      device_notification: He recibido una alerta sobre un nuevo inicio de sesión en mi cuenta de login.gov
-      email_delivery_issue: No recibo el correo electrónico de confirmación de login.gov
-      forgot_password: Olvidé mi contraseña de login.gov y no puedo restablecerla
+      delete_account: ¿Cómo elimino mi cuenta de Login.gov?
+      device_notification: He recibido una alerta sobre un nuevo inicio de sesión en mi cuenta de Login.gov       email_delivery_issue: No recibo el correo electrónico de confirmación de Login.gov       forgot_password: Olvidé mi contraseña de Login.gov y no puedo restablecerla
       international_number: Tengo un número internacional y no recibo mi código de seguridad
       invalid_email: Login.gov no acepta mi dirección de correo electrónico. Dice que no es válido
       invalid_otp: Login.gov dice que mi código de seguridad no es válido
       letter_in_mail: No he recibido mi carta por correo o ha caducado
       locked_out: Estoy bloqueado en mi cuenta
       lost_2fa_method: Método autenticación de dos factores perdido
-      multiple_otps: Recibo códigos de seguridad de login.gov que no he solicitado
+      multiple_otps: Recibo códigos de seguridad de Login.gov que no he solicitado
       new_account: Mi correo electrónico/nombre de usuario y contraseña no funcionan
       new_backup_codes: ¿Cómo consigo nuevos códigos de copia de seguridad?
       new_personal_key: ¿Cómo puedo obtener una nueva clave personal?
       no_otp_received: No se ha recibido ningún pedido de pago
-      no_phone: No puedo crear mi cuenta de login.gov porque no tengo un teléfono
+      no_phone: No puedo crear mi cuenta de Login.gov porque no tengo un teléfono
       none: '--Ninguno--'
       other: Otro
       password_issue: Problema con la contraseña
       personal_key: Mi clave personal no funciona
       personal_key_setup: Configuración de la clave personal
-      personal_key_notification: He recibido una alerta sobre un nuevo inicio de sesión en mi cuenta de login.gov
-      phone_number_failure: He recibido un fallo después de introducir mi número de teléfono
+      personal_key_notification: He recibido una alerta sobre un nuevo inicio de sesión en mi cuenta de Login.gov       phone_number_failure: He recibido un fallo después de introducir mi número de teléfono
       piv_cac: Tengo problemas para usar mi PIV/CAC para iniciar sesión
       privacy_and_security: Privacidad y seguridad
       recover_account: ¿Cómo puedo entrar en mi cuenta si no tengo mi teléfono o mi clave personal?
@@ -104,17 +101,11 @@ contact_page:
       verify_identity_error: He recibido un fallo al intentar verificar mi identidad
       wrong_account_update: Actualización de la cuenta errónea
     topics:
-      account_linking: Vincular su cuenta de login.gov a su perfil
-      changing_settings: Cambiar su información de login.gov
-      creating_account: Crear una cuenta de login.gov
-      feedback: Comentarios para login.gov
-      not_login_gov: No es login.gov
-      other: Otro
+      account_linking: Vincular su cuenta de Login.gov a su perfil
+      changing_settings: Cambiar su información de Login.gov       creating_account: Crear una cuenta de Login.gov       feedback: Comentarios para Login.gov       not_login_gov: No es Login.gov       other: Otro
       piv_cac: Problema con CAC (tarjeta de acceso común) o PIV (verificación de identidad
         personal)
-      security_codes: Códigos de seguridad de login.gov
-      signing_in: Iniciar sesión en su cuenta de login.gov
-      verifying_identity: Verificar su identidad
+      security_codes: Códigos de seguridad de Login.gov       signing_in: Iniciar sesión en su cuenta de Login.gov       verifying_identity: Verificar su identidad
 feedback_form:
   'yes': "Si"
   'no': "No"
@@ -131,8 +122,7 @@ help_page:
   p_1: Explore los temas comunes
   title: ¿Cómo podemos ayudar?
   categories:
-    - title: Empiece con login.gov
-      description: Cree su cuenta. Conozca las opciones de autenticación y más características de la cuenta.
+    - title: Empiece con Login.gov       description: Cree su cuenta. Conozca las opciones de autenticación y más características de la cuenta.
       url: /es/help/get-started/overview/
       image: /assets/img/help/get-started.svg
     - title: ¿Tiene problemas para iniciar sesión?
@@ -152,8 +142,7 @@ help_page:
       url: /es/help/verify-your-identity/overview/
       image: /assets/img/help/verify-your-id.svg
 help_subpages:
-  get-started: Empiece con login.gov
-  trouble-signing-in: ¿Tiene problemas para iniciar sesión?
+  get-started: Empiece con Login.gov   trouble-signing-in: ¿Tiene problemas para iniciar sesión?
   manage-your-account: Administrar su cuenta
   specific-agencies: Ayuda con agencias específicas
   verify-your-identity: Verificación de identidad
@@ -177,8 +166,7 @@ nav:
     sections:
       - name: ¿Tiene alguna pregunta sobre la cuenta de su agencia?
         url: '#tiene-alguna-pregunta-sobre-la-cuenta-de-su-agencia'
-      - name: Asociarse con login.gov
-        url: '#asociarse-con-logingov'
+      - name: Asociarse con Login.gov         url: '#asociarse-con-logingov'
       - name: Reportar un problema
         url: '#reportar-un-problema'
   contact_login_gov: Póngase en contacto con Login.gov
@@ -216,9 +204,8 @@ nav:
   security: Seguridad
   sign_in: 'Inicie sesión con'
   skip_nav: Salte al contenido principal
-  system_status: Estado del sistema login.gov
-  what_is_login_gov: ¿Qué es login.gov?
-  who_uses_login_gov: ¿Quién usa login.gov?
+  system_status: Estado del sistema Login.gov   what_is_login_gov: ¿Qué es Login.gov?
+  who_uses_login_gov: ¿Quién usa Login.gov?
 policies:
   title: Privacidad y seguridad
   sections:
@@ -263,12 +250,12 @@ policies:
 create-an-account:
   hero:
     heading: Crea una cuenta
-    text: Únase a los millones de personas que confían en login.gov para tener acceso seguro a agencias gubernamentales.
-  intro: Cuando esté listo para crear su cuenta segura de login.gov, deberá proporcionar algunos datos&#58;
+    text: Únase a los millones de personas que confían en Login.gov para tener acceso seguro a agencias gubernamentales.
+  intro: Cuando esté listo para crear su cuenta segura de Login.gov, deberá proporcionar algunos datos&#58;
   step_1: |-
     ## 1. Dirección de correo electrónico
       * Recomendamos una dirección de correo electrónico personal a la que siempre podrá acceder en lugar de una dirección de correo electrónico del trabajo.
-      * Si ya tiene una cuenta con login.gov con esa dirección de correo electrónico, le enviaremos un correo electrónico para informarle cómo puede restablecer su contraseña y acceder a la cuenta.
+      * Si ya tiene una cuenta con Login.gov con esa dirección de correo electrónico, le enviaremos un correo electrónico para informarle cómo puede restablecer su contraseña y acceder a la cuenta.
   step_2: |-
     ## 2. Contraseña segura
       * Las contraseñas deben tener al menos 12 caracteres y no deben incluir palabras o frases de uso común.

@@ -11,5 +11,5 @@ Gérez les paramètres de votre compte, notamment votre mot de passe, votre num�
 ## Sujets de dépannage courants
 
 - [Changez votre mot de passe](/fr/help/manage-your-account/change-your-password/)
-- [Supprimez votre compte login.gov](/fr/help/manage-your-account/delete-your-account/)
+- [Supprimez votre compte Login.gov](/fr/help/manage-your-account/delete-your-account/)
 {: .help-question-list}

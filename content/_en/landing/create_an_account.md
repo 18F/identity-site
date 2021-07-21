@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Create an account
-description: Join the millions of people who trust login.gov for safe, secure
+description: Join the millions of people who trust Login.gov for safe, secure
   access to government agencies.
 one_account_banner: true
 permalink: /create-an-account/

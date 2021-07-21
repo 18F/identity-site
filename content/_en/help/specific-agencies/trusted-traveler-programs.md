@@ -29,9 +29,9 @@ redirect_from:
   - /help/trusted-traveler-programs/
 ---
 
-Login.gov is for secure sign in only. Your login.gov account does not affect or have any information about your [Trusted Traveler Programs](https://ttp.dhs.gov/) (TTP) application, membership, or eligibility. Please do not send login.gov sensitive data about yourself or identifying membership numbers.
+Login.gov is for secure sign in only. Your Login.gov account does not affect or have any information about your [Trusted Traveler Programs](https://ttp.dhs.gov/) (TTP) application, membership, or eligibility. Please do not send Login.gov sensitive data about yourself or identifying membership numbers.
 
-Login.gov can only answer questions about the sign-in process and creating a login.gov account.
+Login.gov can only answer questions about the sign-in process and creating a Login.gov account.
 
 Please contact the [Trusted Traveler Programs](https://help.cbp.gov/s/questions?language=en_US) directly if you have questions regarding:
 
@@ -42,9 +42,9 @@ Please contact the [Trusted Traveler Programs](https://help.cbp.gov/s/questions?
 
 Important notes:
 
-* Your Known Traveler Number (KTN) will not change when you create a login.gov account
-* You do not need to pay for TTP again when you create a login.gov account unless it is time to renew your membership
+* Your Known Traveler Number (KTN) will not change when you create a Login.gov account
+* You do not need to pay for TTP again when you create a Login.gov account unless it is time to renew your membership
 
 To access your Trusted Traveler Programs account information, visit <https://ttp.cbp.dhs.gov/>.
 
-If you sign in directly from the login.gov homepage, you will only see your login.gov account information.
+If you sign in directly from the Login.gov homepage, you will only see your Login.gov account information.

@@ -20,7 +20,7 @@ redirect_from:
 
 Some participating agencies require you to complete an identity verification process. Identity verification is the process where you prove you are you - and not someone pretending to be you.
 
-You only need to verify your identity once for your login.gov account. After you verify your identity with login.gov for one government application, you don’t need to do it again for other government applications that use login.gov and require identity verification.
+You only need to verify your identity once for your Login.gov account. After you verify your identity with Login.gov for one government application, you don’t need to do it again for other government applications that use Login.gov and require identity verification.
 
 Use this help section to understand the process and requirements for identity verification.
 

@@ -20,7 +20,7 @@ three_col:
     agencies.
 
 
-    [Learn about login.gov](https://login.gov/what-is-login/){:class="why-more-info"}
+    [Learn about Login.gov](https://login.gov/what-is-login/){:class="why-more-info"}
   subheading2: Agency partners
   col2: >-
     Protect your users’ information with the highest standards of digital
@@ -32,7 +32,7 @@ three_col:
   subheading3: Agency developers
   col3: >-
     Developer resources, real-time support and modern tools to help you
-    implement and deploy your application with login.gov
+    implement and deploy your application with Login.gov
 
 
     [See developer guide](https://developers.login.gov/){:class="why-more-info"}

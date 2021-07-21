@@ -10,9 +10,9 @@ redirect_from:
 ---
 ## Our privacy act statement ## {#our-privacy-act-statement}
 
-The login.gov service is provided by the U.S. General Services Administration to offer the public secure and private online access to participating government programs. With one login.gov account, users can sign into multiple government agencies. Our goal is to make managing federal benefits, services, and applications easier and more secure.
+The Login.gov service is provided by the U.S. General Services Administration to offer the public secure and private online access to participating government programs. With one Login.gov account, users can sign into multiple government agencies. Our goal is to make managing federal benefits, services, and applications easier and more secure.
 
-By accessing the login.gov service, you acknowledge and agree to this Privacy Policy and the login.gov Rules of Use. We will post any changes to these terms to this page. If the changes affect our handling of your personal information or are otherwise deemed significant, we will notify you by email. If we cannot reach you by email, we reserve the right to contact you by other means, including postal mail. If at any time you no longer agree to this Privacy Policy or any other relevant terms of the login.gov service, you may close your account.
+By accessing the Login.gov service, you acknowledge and agree to this Privacy Policy and the Login.gov Rules of Use. We will post any changes to these terms to this page. If the changes affect our handling of your personal information or are otherwise deemed significant, we will notify you by email. If we cannot reach you by email, we reserve the right to contact you by other means, including postal mail. If at any time you no longer agree to this Privacy Policy or any other relevant terms of the Login.gov service, you may close your account.
 
 ### The Authority - Who authorizes the collection of this data?  ### {#authority}
 
@@ -20,7 +20,7 @@ The information you provide is collected pursuant to 6 USC § 1523 (b)(1)(A)-(E)
 
 ### The Purpose - Why do we need your information? ### {#purpose}
 
-Login.gov partners with agencies that need secure and private access to their applications and services. Each agency may request different levels of security depending on their needs. When you create and sign in to a login.gov account, you’re provided with an electronic identity assurance credential. We need your personally identifying information, or PII, to generate that credential. Imagine this credential like a key that only you can use. The key securely opens the door to a partner agency’s service or application.
+Login.gov partners with agencies that need secure and private access to their applications and services. Each agency may request different levels of security depending on their needs. When you create and sign in to a Login.gov account, you’re provided with an electronic identity assurance credential. We need your personally identifying information, or PII, to generate that credential. Imagine this credential like a key that only you can use. The key securely opens the door to a partner agency’s service or application.
 
 #### What information do we need?
 
@@ -43,13 +43,13 @@ Your email address and phone number will be maintained for at least six years in
 
 There may be circumstances where we are required to share certain data. For example: if the information is relevant and necessary for an authorized law enforcement purpose; in order to respond to a breach; or to assist another agency as it responds to a breach. For additional information, see the [system of record notice](https://www.federalregister.gov/documents/2017/08/10/2017-16852/privacy-act-of-1974-system-of-records) number GSA/TTS-1 that GSA’s Technology Transformation Service (TTS) published on [August 10, 2017](https://www.federalregister.gov/documents/2017/08/10/2017-16852/privacy-act-of-1974-system-of-records).
 
-Even when we share the information with law enforcement, with the exception of email, we cannot access PII because the information is encrypted in a manner that is unretrievable to the login.gov team.
+Even when we share the information with law enforcement, with the exception of email, we cannot access PII because the information is encrypted in a manner that is unretrievable to the Login.gov team.
 
 ### Consent - How can you control what information is shared? ### {#consent}
 
 You decide what information to give us and can revoke consent at any time. Sharing your information is voluntary. All records are stored electronically in a database in GSA’s Amazon Web Services (AWS) environment. You can modify, or amend, either your email address or phone number on [your account page](https://secure.login.gov/account).
 
-However, failure to provide complete and accurate information may delay access to the partner agency. Login.gov does not make any eligibility or suitability determinations; that is the responsibility of the government websites that use the login.gov service.
+However, failure to provide complete and accurate information may delay access to the partner agency. Login.gov does not make any eligibility or suitability determinations; that is the responsibility of the government websites that use the Login.gov service.
 
 Other than as specified in this Privacy Policy and our Rules of Use, we will never share your information without your consent. Your data is encrypted and the only way to share it with a partner agency is if you, the authorized user, enter your password and explicitly grant consent to share the information.
 
@@ -63,7 +63,7 @@ Please see the Login.gov system of records notice (GSA/TTS–1) at [www.gsa.gov/
 
 ### Website Analytics – Other data we collect ### {#analytics}
 
-Other data, like the pages you visit and the length of your session, are aggregated into reports to help us better understand how the site is being used and how we can make it more helpful. The data is anonymized. No personally identifying user information is tied to this data and it is only shared anonymously with the login.gov team.
+Other data, like the pages you visit and the length of your session, are aggregated into reports to help us better understand how the site is being used and how we can make it more helpful. The data is anonymized. No personally identifying user information is tied to this data and it is only shared anonymously with the Login.gov team.
 
 ### Privacy Impact Assessment ### {#impact}
 

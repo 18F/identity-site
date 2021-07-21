@@ -22,7 +22,7 @@ If you are missing any of this information, please contact the government agency
 Login.gov is a secure, government website that adheres to the highest standards in data protection. Most of the data you submit is not stored. Learn how we verify your identity and the [privacy and security measures](/policy/) we take to keep your information safe.
 
 ## Steps for identity verification and securing your account
-1. On the “We need to verify your identity” page, read the requirements and, if you agree, check the box next to the login.gov consent statement.
+1. On the “We need to verify your identity” page, read the requirements and, if you agree, check the box next to the Login.gov consent statement.
     * Click “Continue”
 1. Next, upload your State-Issued ID.
     * Note: If you began the identity verification process on your computer, you have the option to switch and use your phone to upload images.
@@ -59,8 +59,8 @@ Login.gov is a secure, government website that adheres to the highest standards 
 1.  Verify the information you have submitted so far is correct and click “Continue”
 1.  Enter a phone number with your name on the plan. This is the last step for identity verification.
     * If you do not have a phone plan with your name on it or a U.S. phone number, click on “Get a code via mail instead.” You will have to wait to receive a letter in the mail and then follow the instructions to enter the code.
-1.  Once your identity is verified, you need to encrypt your account. Re-enter your login.gov password. Click “Continue”
+1.  Once your identity is verified, you need to encrypt your account. Re-enter your Login.gov password. Click “Continue”
 1.  Take note of your personal key and keep it safe. You’ll need to enter your personal key immediately on the next page. Click “Continue”
 {: .number-list}
 
-Once the process is complete, click “Agree and Continue” to be redirected back to your login.gov account page or the agency you are trying to access.
+Once the process is complete, click “Agree and Continue” to be redirected back to your Login.gov account page or the agency you are trying to access.

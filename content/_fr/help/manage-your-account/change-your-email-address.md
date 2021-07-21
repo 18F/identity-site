@@ -10,7 +10,7 @@ redirect_from:
   Suivez ces étapes pour modifier l'adresse de courriel associée à votre compte.
 
 ## Partie 1 : Ajouter une adresse de courriel
-  1. Connectez-vous à votre compte login.gov <https://secure.login.gov>.
+  1. Connectez-vous à votre compte Login.gov <https://secure.login.gov>.
   1. Entrez votre mot de passe et cliquez sur Connexion.
   1. Cliquez sur le bouton « Connexion ».
   1. Entrez votre méthode d'authentification
@@ -19,7 +19,7 @@ redirect_from:
   1. Cliquez sur le bouton « Envoyer ».
   1. Nous enverrons un courriel à votre nouvelle adresse de courriel
     * Suivez les invites pour confirmer votre adresse de courriel.
-    * Si vous ne confirmez pas votre adresse de courriel, vous ne pourrez pas l'utiliser avec votre compte login.gov.
+    * Si vous ne confirmez pas votre adresse de courriel, vous ne pourrez pas l'utiliser avec votre compte Login.gov.
     * Ne supprimez pas l'ancienne adresse de courriel tant que vous n'avez pas confirmé votre nouvelle adresse de courriel.
   {: .number-list}
 

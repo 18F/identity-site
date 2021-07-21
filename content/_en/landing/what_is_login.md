@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: What is login.gov?
+title: What is Login.gov?
 description: Signing in to government agencies should be simple — and secure.
 already_have_an_account_banner: true
 component:
@@ -9,10 +9,10 @@ component:
     ## One account and password
 
 
-    Login.gov is a secure sign in service used by the public to sign in to participating government agencies. Participating agencies will ask you to create a login.gov account to securely access your information on their website or application.
+    Login.gov is a secure sign in service used by the public to sign in to participating government agencies. Participating agencies will ask you to create a Login.gov account to securely access your information on their website or application.
 
 
-    You can use the same username and password to access any agency that partners with login.gov. This streamlines your process and eliminates the need to remember multiple usernames and passwords.
+    You can use the same username and password to access any agency that partners with Login.gov. This streamlines your process and eliminates the need to remember multiple usernames and passwords.
 
 
     ### Login.gov is used to secure your account when you apply for
@@ -37,9 +37,9 @@ component:
     ## How does it work?
 
 
-    Participating agencies use login.gov to help protect their users. When you try to sign in to a participating agency, you’ll be prompted to sign in or create an account with login.gov before you can access your profile with that agency.  
+    Participating agencies use Login.gov to help protect their users. When you try to sign in to a participating agency, you’ll be prompted to sign in or create an account with Login.gov before you can access your profile with that agency.  
   bannercol1: >-
-    ### All participating agencies use login.gov for secure sign in.
+    ### All participating agencies use Login.gov for secure sign in.
 
 
     You provide two pieces of information to securely sign in and protect your information. 

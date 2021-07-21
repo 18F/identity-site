@@ -21,7 +21,7 @@ S'il vous manque une de ces informations, veuillez contacter l'agence gouverneme
 Login.gov est un site web gouvernemental sécurisé qui respecte les normes les plus strictes en matière de protection des données. La plupart des données que vous soumettez ne sont pas stockées. Découvrez comment nous vérifions votre identité et [les mesures de sécurité et de protection](/fr/policy/) de la vie privée que nous prenons pour assurer la sécurité de vos informations.
 
 ## Étapes de la vérification de l'identité et de la sécurisation de votre compte
-1. Sur la page « Nous devons vérifier votre identité », lisez les conditions et, si vous êtes d'accord, cochez la case située à côté de la déclaration de consentement de login.gov.
+1. Sur la page « Nous devons vérifier votre identité », lisez les conditions et, si vous êtes d'accord, cochez la case située à côté de la déclaration de consentement de Login.gov.
     * Cliquez sur « Continuer ».
 1. Ensuite, chargez votre carte d'identité délivrée par l'État.
     * Remarque : si vous avez commencé le processus de vérification de l'identité sur votre ordinateur, il vous est toujours possible de changer et d'utiliser votre téléphone pour charger des images.
@@ -58,8 +58,8 @@ Login.gov est un site web gouvernemental sécurisé qui respecte les normes les 
 1. Vérifiez que les informations que vous avez fournies jusqu'à présent sont correctes et cliquez sur « Continuer ».
 1. Saisissez un numéro de téléphone avec votre nom sur le plan. C'est la dernière étape de la vérification de l'identité.
     * Si vous n'avez pas d'abonnement téléphonique avec votre nom ou un numéro de téléphone américain, cliquez sur « Recevoir un code par courrier ». Vous allez devoir attendre de recevoir un courrier par la poste, puis suivre les instructions pour saisir le code.
-1. Une fois votre identité vérifiée, vous devez crypter votre compte. Saisissez à nouveau votre mot de passe login.gov. Cliquez sur « Continuer ».
+1. Une fois votre identité vérifiée, vous devez crypter votre compte. Saisissez à nouveau votre mot de passe Login.gov. Cliquez sur « Continuer ».
 1. Prenez note de votre clé personnelle et conservez-la en lieu sûr. Vous devrez entrer votre clé personnelle immédiatement à la page suivante. Cliquez sur « Continuer ».
 {: .number-list}
 
-Une fois le processus terminé, cliquez sur « Accepter et continuer » pour être redirigé vers la page de votre compte login.gov ou vers l'agence à laquelle vous essayez d'accéder.
+Une fois le processus terminé, cliquez sur « Accepter et continuer » pour être redirigé vers la page de votre compte Login.gov ou vers l'agence à laquelle vous essayez d'accéder.

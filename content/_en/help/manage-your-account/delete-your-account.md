@@ -12,13 +12,13 @@ redirect_from:
 
 * You realize you have multiple accounts using different email addresses and you want to have one account
 * You are locked out of your account and have lost access to your authentication methods
-* You no longer need a login.gov account
+* You no longer need a Login.gov account
 
 __If you delete your account:__
 * We'll delete your email address, password, and phone number
-* You won't be able to securely access partner agencies who require a login.gov account
+* You won't be able to securely access partner agencies who require a Login.gov account
 
-After you delete your account, you will not be able to sign in to the government applications that you normally use your login.gov account to access. You will not lose your information in those applications, but you will need a new login.gov account to be able to sign in to those applications.
+After you delete your account, you will not be able to sign in to the government applications that you normally use your Login.gov account to access. You will not lose your information in those applications, but you will need a new Login.gov account to be able to sign in to those applications.
 
 __If you do have access to your authentication methods, follow these steps to delete your account:__
 

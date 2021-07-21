@@ -59,22 +59,20 @@ contact_page:
     submit: Soumettre
     subtopics:
       account_locked: Mon compte est bloqué pendant 24 heures
-      add_family_member: Comment puis-je ajouter un membre de ma famille à mon compte login.gov?
+      add_family_member: Comment puis-je ajouter un membre de ma famille à mon compte Login.gov?
       agency_app: Problème avec l'appli de l'agence
       authentication_app: J'ai une application d'authentification mais elle ne fonctionne pas
       authentication_app_setup: Comment configurer une application d'authentification?
       backup_codes: Comment utiliser mes codes de sauvegarde pour me connecter?
       blank_screen: Je vois une erreur/un écran vide lors de la création de mon compte
       change_email: Comment puis-je modifier mon adresse courriel?
-      change_password: Comment puis-je mettre à jour mon mot de passe login.gov?
+      change_password: Comment puis-je mettre à jour mon mot de passe Login.gov?
       change_phone_number: Comment modifier mon numéro de téléphone?
-      delete_account: Comment supprimer mon compte login.gov?
-      device_notification: J'ai reçu une alerte concernant une nouvelle ouverture de session sur mon compte login.gov
-      email_delivery_issue: Je ne reçois pas le courriel de confirmation de login.gov
-      forgot_password: J'ai oublié mon mot de passe login.gov et je ne peux pas le réinitialiser
+      delete_account: Comment supprimer mon compte Login.gov?
+      device_notification: J'ai reçu une alerte concernant une nouvelle ouverture de session sur mon compte Login.gov       email_delivery_issue: Je ne reçois pas le courriel de confirmation de Login.gov       forgot_password: J'ai oublié mon mot de passe Login.gov et je ne peux pas le réinitialiser
       international_number: J'ai un numéro international et je ne reçois pas mon code de sécurité
       invalid_email: Login.gov n'accepte pas mon adresse courriel. Il est indiqué qu'elle n'est pas valide
-      invalid_otp: login.gov indique que mon code de sécurité n'est pas valide
+      invalid_otp: Login.gov indique que mon code de sécurité n'est pas valide
       letter_in_mail: Je n'ai pas reçu ma lettre par la poste ou elle a expiré
       locked_out: Je suis bloqué sur mon compte
       lost_2fa_method: Authentification à deux facteurs perdue
@@ -83,7 +81,7 @@ contact_page:
       new_backup_codes: Comment obtenir de nouveaux codes de sauvegarde?
       new_personal_key: Comment obtenir une nouvelle clé personnelle?
       no_otp_received: Aucun OTP reçu
-      no_phone: Je ne peux pas créer mon compte login.gov parce que je n'ai pas de téléphone.
+      no_phone: Je ne peux pas créer mon compte Login.gov parce que je n'ai pas de téléphone.
       none: '--Aucun--'
       other: Autre
       password_issue: Problème de mot de passe
@@ -100,20 +98,14 @@ contact_page:
       service_quality: Qualité du service
       site_navigation: Je ne sais pas où aller pour créer un compte
       state_issued_id_error: J'ai eu une erreur après avoir téléchargé mon identifiant d'état
-      unwanted_otp: Je reçois des codes de sécurité de login.gov que je n'ai pas demandés
+      unwanted_otp: Je reçois des codes de sécurité de Login.gov que je n'ai pas demandés
       verify_identity_error: J'ai reçu un message d'erreur en essayant de vérifier mon identité
       wrong_account_update: Mise à jour de compte erronée
     topics:
-      account_linking: Lier votre compte login.gov à votre profil
-      changing_settings: Changer vos informations de login.gov
-      creating_account: Créer un compte login.gov
-      feedback: Commentaires pour login.gov
-      not_login_gov: Pas login.gov
-      other: Autre
+      account_linking: Lier votre compte Login.gov à votre profil
+      changing_settings: Changer vos informations de Login.gov       creating_account: Créer un compte Login.gov       feedback: Commentaires pour Login.gov       not_login_gov: Pas Login.gov       other: Autre
       piv_cac: Problème de PIV/CAC
-      security_codes: Codes de sécurité de login.gov
-      signing_in: Se connecter à votre compte login.gov
-      verifying_identity: Vérifier votre identité
+      security_codes: Codes de sécurité de Login.gov       signing_in: Se connecter à votre compte Login.gov       verifying_identity: Vérifier votre identité
 feedback_form:
   'yes': "Oui"
   'no': "Non"
@@ -130,8 +122,7 @@ help_page:
   p_1: Parcourir les sujets communs
   title: Comment pouvons nous aider?
   categories:
-    - title: Commencez avec login.gov
-      description: Créez votre compte. Découvrez les options d'authentification et d'autres caractéristiques du compte.
+    - title: Commencez avec Login.gov       description: Créez votre compte. Découvrez les options d'authentification et d'autres caractéristiques du compte.
       url: /fr/help/get-started/overview/
       image: /assets/img/help/get-started.svg
     - title: Des problèmes pour vous connecter?
@@ -151,8 +142,7 @@ help_page:
       url: /fr/help/verify-your-identity/overview/
       image: /assets/img/help/verify-your-id.svg
 help_subpages:
-  get-started: Commencez avec login.gov
-  trouble-signing-in: Des problèmes pour vous connecter?
+  get-started: Commencez avec Login.gov   trouble-signing-in: Des problèmes pour vous connecter?
   manage-your-account: Gérez votre compte
   specific-agencies: Aide aux agences spécifiques
   verify-your-identity: Vérifiez votre identité
@@ -176,8 +166,7 @@ nav:
     sections:
       - name: Avez-vous une question concernant votre compte d’agence?
         url: '#avez-vous-une-question-concernant-votre-compte-dagence'
-      - name: Partenaire avec login.gov
-        url: '#partenaire-avec-logingov'
+      - name: Partenaire avec Login.gov         url: '#partenaire-avec-logingov'
       - name: Signaler un problème
         url: '#signaler-un-problème'
   contact_login_gov: Contactez Login.gov
@@ -215,9 +204,8 @@ nav:
   security: Sécurité
   sign_in: 'Connectez-vous avec'
   skip_nav: Passer au contenu principal
-  system_status: État du système login.gov
-  what_is_login_gov: Qu'est-ce que login.gov?
-  who_uses_login_gov: Qui utilise login.gov?
+  system_status: État du système Login.gov   what_is_login_gov: Qu'est-ce que Login.gov?
+  who_uses_login_gov: Qui utilise Login.gov?
 policies:
   title: Confidentialité et sécurité
   sections:
@@ -274,41 +262,41 @@ policies:
   p_1: |-
     Résoudre des problèmes réels pour les utilisateurs potentiels doit être l'objectif principal de tout système et est doublement important dans la construction d'un système de gestion d'identité. Tout au long de ce guide, vous constaterez à quel point les besoins des utilisateurs constituent un principe directeur pour chaque prise de décision.
 
-    Une des premières étapes que vous devez effectuer est d'identifier vos utilisateurs principaux. Pour login.gov, nous avons identifié deux groupes comme étant nos utilisateurs principaux: le public et les experts en technologie faisant partie des agences gouvernementales. L'objectif pour le système en soi est de fournir de l'assistance et de répondre aux besoins du public. En bref, nous souhaitons nous assurer que notre système rend les gens à l'aise avec la connexion aux services gouvernementaux. Le public doit avoir confiance que login.gov se comporte comme prévu et qu'il ne les décevra pas. Le système doit aussi aborder l'expérience entière des utilisateurs alors qu'ils tentent d'accomplir leurs objectifs. Parce que la vérification de l'identité et l'authentification sont technologiquement complexes, il est probable que même les personnes les plus aguérries en ce qui a trait aux technologies peuvent rester piégées si leur téléphone est perdu ou si un système comporte des erreurs. Alors, en soutien à la mission de chaque agence, les architectes et les concepteurs des systèmes de gestion de l'identité doivent anticiper les points probables de friction afin que les utilisateurs ne perdent pas leur accès aux services et aux avantages.
+    Une des premières étapes que vous devez effectuer est d'identifier vos utilisateurs principaux. Pour Login.gov, nous avons identifié deux groupes comme étant nos utilisateurs principaux: le public et les experts en technologie faisant partie des agences gouvernementales. L'objectif pour le système en soi est de fournir de l'assistance et de répondre aux besoins du public. En bref, nous souhaitons nous assurer que notre système rend les gens à l'aise avec la connexion aux services gouvernementaux. Le public doit avoir confiance que Login.gov se comporte comme prévu et qu'il ne les décevra pas. Le système doit aussi aborder l'expérience entière des utilisateurs alors qu'ils tentent d'accomplir leurs objectifs. Parce que la vérification de l'identité et l'authentification sont technologiquement complexes, il est probable que même les personnes les plus aguérries en ce qui a trait aux technologies peuvent rester piégées si leur téléphone est perdu ou si un système comporte des erreurs. Alors, en soutien à la mission de chaque agence, les architectes et les concepteurs des systèmes de gestion de l'identité doivent anticiper les points probables de friction afin que les utilisateurs ne perdent pas leur accès aux services et aux avantages.
 
-    Les agences doivent identifier la portion du public qu'elles desservent et comment les services peuvent être bâtis pour répondre spécifiquement à leurs besoins. Ceci aidera les équipes d'intégration des agences à comprendre ce dont ils ont besoin si elles décident de mettre en œuvre la plate-forme login.gov ou tout autre système de gestion d'identité du consommateur.
+    Les agences doivent identifier la portion du public qu'elles desservent et comment les services peuvent être bâtis pour répondre spécifiquement à leurs besoins. Ceci aidera les équipes d'intégration des agences à comprendre ce dont ils ont besoin si elles décident de mettre en œuvre la plate-forme Login.gov ou tout autre système de gestion d'identité du consommateur.
 
     Enfin, vous devez constamment tester les designs et outils au moment où ils sont prêts à être partagés et ensuite ajuster votre projet en fonction de ce que vous avez appris. Dans certains cas, nous apprenons que les meilleures pratiques actuelles ne sont pas adéquates. Et dans ces cas, nous sommes poussés à essayer de nouvelles façons de donner aux utilisateurs la meilleure expérience possible. Ce processus implique plus de tests, l'éducation des utilisateurs et une volonté à itérer.
 
     Il existe un nombre de méthodes de conception spécifiques que nous mettons en pratique pour demeurer axés sur l'utilisateur et vous pouvez lire au sujet de tous ces processus et les utiliser en passant en revue le [18F Design Methods](https://methods.18f.gov/).
   p_2: |-
-    [Travailler de façon transparente](https://playbook.cio.gov/#play13) et créer un système transparent devrait être la façon dont toute agence travaille pour bâtir ou mettre en œuvre un système de gestion d'identité. Pour exécuter ce principe avec login.gov, nous bâtissons la plate-méthode de manière à ce que les parties intéressées puisse nous conseiller sur les meilleures pratiques afin que nous demeurions responsables envers le public et envers nos partenaires de toutes les agences gouvernementales. De plus, cela signifie qu'un système qui indique aux utilisateurs ce qu'il fait de leur information dans le but de créer une responsabilisation et établir une confiance. Nous impliquons les utilisateurs et autres parties intéressées par le biais de notre [référentiel GitHub](https://github.com/18F/identity-idp) et travaillons à la création de forums publics où les utilisateurs peuvent discuter de notre travail.
+    [Travailler de façon transparente](https://playbook.cio.gov/#play13) et créer un système transparent devrait être la façon dont toute agence travaille pour bâtir ou mettre en œuvre un système de gestion d'identité. Pour exécuter ce principe avec Login.gov, nous bâtissons la plate-méthode de manière à ce que les parties intéressées puisse nous conseiller sur les meilleures pratiques afin que nous demeurions responsables envers le public et envers nos partenaires de toutes les agences gouvernementales. De plus, cela signifie qu'un système qui indique aux utilisateurs ce qu'il fait de leur information dans le but de créer une responsabilisation et établir une confiance. Nous impliquons les utilisateurs et autres parties intéressées par le biais de notre [référentiel GitHub](https://github.com/18F/identity-idp) et travaillons à la création de forums publics où les utilisateurs peuvent discuter de notre travail.
 
     Afin de rendre un système de gestion d'identité transparent pour les utilisateurs finaux, le système doit inclure des fonctionnalités qui éduquent les gens sur la façon dont le système fonctionne, pourquoi il fonctionne de cette façon et de quelle manière ils peuvent contrôler ce qui advient de leurs données. Vous devriez aussi informer les utilisateurs de l'information qui est requise par une agence pour la connexion à un service. Il est aussi important d'informer les utilisateurs de quelle information vos systèmes stockeront et si toute donnée est partagée avec les autres agences. Si les gens qui utilisent le système ne sont pas à l'aise avec le partage d'information, ils ne doivent pas être obligés de participer.
 
-    login.gov travaille pour mettre en œuvre toutes ces fonctionnalités ayant pour but d'améliorer la transparence. De plus, pour aider les gens à comprendre tout le processus, nous créons une politique de confidentialité qui explique comment les données sont partagées et ce que signifie de choisir l'option de retrait.
+    Login.gov travaille pour mettre en œuvre toutes ces fonctionnalités ayant pour but d'améliorer la transparence. De plus, pour aider les gens à comprendre tout le processus, nous créons une politique de confidentialité qui explique comment les données sont partagées et ce que signifie de choisir l'option de retrait.
   p_3: |-
     La technologie et les normes pour de la vérification d'identité peuvent changer rapidement. La gestion de l'identité du consommateur doit s'adapter rapidement aux normes changeantes et réagir aux nouvelles menaces à la sécurité. Afin de rendre l'adaptation aux nouvelles politiques et aux capacités possible, il s'agit d'une bonne pratique de bâtir des produits en utilisant des méthodes agiles qui tiennent compte des versions changeantes. En d'autres termes, planifier les modifications pour aider votre service d'identité à être aussi à jour et conforme que possible aux normes et politiques actuelles.
 
-    Nous adhérons à ce principe pour chaque aspect des projets qui construisent login.gov.
+    Nous adhérons à ce principe pour chaque aspect des projets qui construisent Login.gov.
 
     [Lisez ce guide](https://pages.18f.gov/agile/index.html) des principes et pratiques agiles élaborés par l'équipe 18F pour en savoir plus sur ce que signifie de travailler de façon agile.
   p_4: |-
-    Les systèmes de gestion d'identité stockent l'information personnelle sur les utilisateurs afin que les gens n'aient pas à répéter sans cesse les processus de vérification et d'authentification. Toutefois, recueillir et stocker de l'information personnelle sou;ève des questions éthiques et légales que les concepteurs de systèmes et les développeurs doivent considérer. Souvent, ce qui vient d'abord à l'esprit sont les questions techniques sur la sécurité : la protection de l'information contre les usages non autorisés et illégaux. Toutefois, nous devons aussi nous préoccuper des usages autorisés et légaux de l'information personnelle qui violent les attentes des utilisateurs en matière de confidentialité. Les utilisateurs de login.gov doivent être assurés que nous gérons leur information personnelle de façon respectueuse et appropriée.
+    Les systèmes de gestion d'identité stockent l'information personnelle sur les utilisateurs afin que les gens n'aient pas à répéter sans cesse les processus de vérification et d'authentification. Toutefois, recueillir et stocker de l'information personnelle sou;ève des questions éthiques et légales que les concepteurs de systèmes et les développeurs doivent considérer. Souvent, ce qui vient d'abord à l'esprit sont les questions techniques sur la sécurité : la protection de l'information contre les usages non autorisés et illégaux. Toutefois, nous devons aussi nous préoccuper des usages autorisés et légaux de l'information personnelle qui violent les attentes des utilisateurs en matière de confidentialité. Les utilisateurs de Login.gov doivent être assurés que nous gérons leur information personnelle de façon respectueuse et appropriée.
 
-    La première étape est de recueillir seulement l'information dont vous avez absolument besoin. Et c'est ce que fait login.gov. La vérification d'identité à assurance élevée pour les tâches sensibles requiert une collecte d'information exhaustive. Cependant, de nombreuses activités ne requièrent pas des niveaux élevés d'assurance (NEA) et login.gov prend en charge différents LOA afin que les agences puissent clairement délimiter leurs utilisateurs qui ont besoin d'un niveau de sécurité plus bas de ceux qui ont des besoins plus sensibles tout en assurant l'utilisabilité et la sécurité des données. Minimiser la quantité d'information recueillie et stockée ne réduit pas seulement les risques liés à la sécurité; cela réduit aussi pour les utilisateurs les craintes liées à la réutilisation et la divulgation.
+    La première étape est de recueillir seulement l'information dont vous avez absolument besoin. Et c'est ce que fait Login.gov. La vérification d'identité à assurance élevée pour les tâches sensibles requiert une collecte d'information exhaustive. Cependant, de nombreuses activités ne requièrent pas des niveaux élevés d'assurance (NEA) et Login.gov prend en charge différents LOA afin que les agences puissent clairement délimiter leurs utilisateurs qui ont besoin d'un niveau de sécurité plus bas de ceux qui ont des besoins plus sensibles tout en assurant l'utilisabilité et la sécurité des données. Minimiser la quantité d'information recueillie et stockée ne réduit pas seulement les risques liés à la sécurité; cela réduit aussi pour les utilisateurs les craintes liées à la réutilisation et la divulgation.
 
     La prochaine étape est de donner aux utilisateurs autant de contrôle que possible sur l'information qui est partagée. Nous croyons fermement que les gens possèdent leurs propres données, pas nous, et nous agirons toujours en conséquence. Si les utilisateurs ne sont pas à l'aise avec les demandes de données pour l'utilisation du système, ils doivent savoir qu'ils n'ont pas à s'inscrire et qu'il existe d'autres moyens d'atteindre leurs objectifs.
 
-    Au fur et à mesure que nous faisons la conception de login.gov, nous travaillons également à éduquer les utilisateurs pour les aider à sécuriser leurs propres données. Nous souhaitons que les gens comprennent pourquoi nous devons demander certains types d'information, comme les numéros de sécurité sociale, et comment nous les utilisons.
+    Au fur et à mesure que nous faisons la conception de Login.gov, nous travaillons également à éduquer les utilisateurs pour les aider à sécuriser leurs propres données. Nous souhaitons que les gens comprennent pourquoi nous devons demander certains types d'information, comme les numéros de sécurité sociale, et comment nous les utilisons.
   p_5: |-
     Comprendre qui essaie d'accéder à l'information personnelle et s'assurer que seuls utilisateurs autorisés obtiennent l'accès à cette information sont les clés de la gestion d'identité du consommateur. Les systèmes comme ceci existent pour sécuriser l'identité de l'utilisateur contre ceux qui cherchent à commettre du vol ou de la fraude.
 
     Être délibéré à propos de la sécurité signifie de concentrer notre attention sur ce qui doit être protégé. Cela signifie de réfléchir attentivement aux moyens possibles pour équilibrer protection et accessibilité. Y parvenir avec succès comprend d'éduquer les utilisateurs sur les moyens qu'ils peuvent utiliser pour se protéger ou mitiger les effets du crime.
 
-    Dans le cas de login.gov, par exemple, nous devons décider exactement quelles données nous stockons et pour combien de temps. Nous devons aussi décider quelles étapes les utilisateurs doivent suivre pour accéder à leur information. Toutes ces décisions nécessitent une délibération attentive afin de déterminer la meilleure option pour les utilisateurs autant que pour les agences et assurer une fonctionnalité maximale.
+    Dans le cas de Login.gov, par exemple, nous devons décider exactement quelles données nous stockons et pour combien de temps. Nous devons aussi décider quelles étapes les utilisateurs doivent suivre pour accéder à leur information. Toutes ces décisions nécessitent une délibération attentive afin de déterminer la meilleure option pour les utilisateurs autant que pour les agences et assurer une fonctionnalité maximale.
 
-    Pour la construction de login.gov, nous adhérons aux normes mises de l'avant par le [National Institute of Standards and Technology](https://pages.nist.gov/800-63-3/) (NIST 800-63-3). De plus, nous adhérons aux [meilleures pratiques du gouvernement](https://playbook.cio.gov/#play11) incluant FedRAMP, en bâtissant dans la transparence et en menant des évaluations de sécurité rigoureuses et routinières en plus d'assurer la conformité au Federal Information Security Management Act (FISMA).
+    Pour la construction de Login.gov, nous adhérons aux normes mises de l'avant par le [National Institute of Standards and Technology](https://pages.nist.gov/800-63-3/) (NIST 800-63-3). De plus, nous adhérons aux [meilleures pratiques du gouvernement](https://playbook.cio.gov/#play11) incluant FedRAMP, en bâtissant dans la transparence et en menant des évaluations de sécurité rigoureuses et routinières en plus d'assurer la conformité au Federal Information Security Management Act (FISMA).
   ul_1:
     li_1: Identifier vos auditoires potentiels
     li_2: Comprendre les expériences de connexion et identifier les besoins de vos
@@ -352,12 +340,12 @@ policies:
 create-an-account:
   hero:
     heading: Créer un compte
-    text: Rejoignez les millions de personnes qui font confiance à login.gov pour un accès sûr et sécurisé aux agences gouvernementales.
-  intro: Lorsque vous serez prêt à créer votre compte login.gov sécurisé, vous devrez fournir quelques informations&#58;
+    text: Rejoignez les millions de personnes qui font confiance à Login.gov pour un accès sûr et sécurisé aux agences gouvernementales.
+  intro: Lorsque vous serez prêt à créer votre compte Login.gov sécurisé, vous devrez fournir quelques informations&#58;
   step_1: |-
     ## 1. Adresse électronique
       * Nous vous recommandons une adresse e-mail personnelle à laquelle vous pourrez toujours accéder plutôt qu'une adresse e-mail professionnelle.
-      * Si vous possédez déjà un compte avec login.gov avec cette adresse e-mail, nous vous enverrons un e-mail pour vous indiquer comment réinitialiser votre mot de passe et accéder au compte.
+      * Si vous possédez déjà un compte avec Login.gov avec cette adresse e-mail, nous vous enverrons un e-mail pour vous indiquer comment réinitialiser votre mot de passe et accéder au compte.
   step_2: |-
     ## 2. Mot de passe sécurisé
       * Les mots de passe doivent comporter au moins 12 caractères et ne doivent pas inclure de mots ou d'expressions couramment utilisés.

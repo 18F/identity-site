@@ -25,11 +25,10 @@ redirect_from:
 
 Login.gov es únicamente para acceder a la cuenta e iniciar sesión. Esta misma cuenta no afecta ni tiene ninguna información relacionada con la organización específica a la que está tratando de acceder.
 
-Nuestro equipo de atención al cliente está disponible para ayudarle a contestar las preguntas sobre login.gov.
+Nuestro equipo de atención al cliente está disponible para ayudarle a contestar las preguntas sobre Login.gov.
 
-## Contacte con login.gov para:
-* Ayudarle a crear una nueva cuenta en login.gov
-* Compartir información sobre las modalidades de autenticación
+## Contacte con Login.gov para:
+* Ayudarle a crear una nueva cuenta en Login.gov * Compartir información sobre las modalidades de autenticación
 * Ayudarle a resolver los inconvenientes por los que no puede acceder a su cuenta
 * Proporcione indicaciones para restablecer su contraseña o eliminar su cuenta
 
@@ -44,7 +43,7 @@ Proporcionamos algunos elementos de ayuda específicos para nuestros socios de l
 
 ## Temas más comunes de solución de problemas
 
-* [Cómo iniciar sesión en login.gov](/es/help/trouble-signing-in/how-to-sign-in/)
+* [Cómo iniciar sesión en Login.gov](/es/help/trouble-signing-in/how-to-sign-in/)
 * [Cambie su contraseña](/es/help/manage-your-account/change-your-password/)
 * [Ha olvidado su contraseña](/es/help/trouble-signing-in/forgot-your-password/)
 {: .help-question-list}

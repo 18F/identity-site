@@ -2,17 +2,17 @@
 layout: contact_us
 sidenav: contact_us
 title: Contact us
-description: Have a question or a problem with login.gov?
+description: Have a question or a problem with Login.gov?
 scripts:
   - /assets/js/build/contact.js
 intro_content: |-
-  Login.gov is here to help you create, sign in and manage your login.gov account.
+  Login.gov is here to help you create, sign in and manage your Login.gov account.
 
-  As a security measure, we do not have access to delete your login.gov account or change your password on your behalf.
+  As a security measure, we do not have access to delete your Login.gov account or change your password on your behalf.
 
   Our operating hours are Monday - Friday, 8:00 a.m. - 8:00 p.m. ET. Please note that it could take up to two business days for our customer support agents to respond to your question. Thank you for your patience.
 
-  If you need assistance with your login.gov account, check out our help center articles for help with common issues.
+  If you need assistance with your Login.gov account, check out our help center articles for help with common issues.
 
   * [I can’t sign in to my account](/help/trouble-signing-in/overview/)
   * [I need help verifying my identity](/help/verify-your-identity/overview/)
@@ -24,9 +24,8 @@ intro_content: |-
 
   Login.gov is a sign in service to access government agency websites. If you have questions about the agency website, which may include questions about your application status, membership, eligibility, benefits or other specific concerns related to your account with that government agency, please contact that agency.
 footer_content: |-
-  ## Partner with login.gov
-
-  Interested in using login.gov at your agency? Please [visit our partners website](https://partners.login.gov/) for more information.
+  ## Partner with Login.gov
+  Interested in using Login.gov at your agency? Please [visit our partners website](https://partners.login.gov/) for more information.
 
   ## Report an issue
 

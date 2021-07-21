@@ -50,6 +50,6 @@ Vous avez oublié votre mot de passe? Verrouillé votre compte? Nous vous aidero
 
 ## Sujets de dépannage courants
 
-* [Comment se connecter à login.gov](/fr/help/trouble-signing-in/how-to-sign-in/)
+* [Comment se connecter à Login.gov](/fr/help/trouble-signing-in/how-to-sign-in/)
 * [Mot de passe oublié](/fr/help/trouble-signing-in/forgot-your-password/)
 {: .help-question-list}

@@ -26,10 +26,10 @@ redirect_from:
 
 Login.gov is for account access and sign in only. This account does not affect or have any information related to the specific agency you are trying to access.
 
-Our customer support team is here to help answer login.gov questions.
+Our customer support team is here to help answer Login.gov questions.
 
-## Contact login.gov to:
-* Help you create a login.gov account
+## Contact Login.gov to:
+* Help you create a Login.gov account
 * Share information about authentication options
 * Help you troubleshoot why you are unable to access your account
 * Provide instructions to reset your password or delete your account
@@ -45,7 +45,7 @@ We provide some specific help content for our larger agency partners. We encoura
 
 ## Common troubleshooting topics
 
-* [How to sign in to login.gov](/help/trouble-signing-in/how-to-sign-in/)
+* [How to sign in to Login.gov](/help/trouble-signing-in/how-to-sign-in/)
 * [Change your password](/help/manage-your-account/change-your-password/)
 * [Forgot your password](/help/trouble-signing-in/forgot-your-password/)
 {: .help-question-list}

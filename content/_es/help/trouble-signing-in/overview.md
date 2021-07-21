@@ -50,6 +50,6 @@ redirect_from:
 
 ## Temas más comunes de solución de problemas
 
-* [Cómo acceder a login.gov](/es/help/trouble-signing-in/how-to-sign-in/)
+* [Cómo acceder a Login.gov](/es/help/trouble-signing-in/how-to-sign-in/)
 * [Olvidó su contraseña](/es/help/trouble-signing-in/forgot-your-password/)
 {: .help-question-list}

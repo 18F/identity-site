@@ -29,5 +29,5 @@ Manage your account settings including your password, phone number, email, and m
 ## Common troubleshooting topics
 
 - [Change your password](/help/manage-your-account/change-your-password/)
-- [Delete your login.gov account](/help/manage-your-account/delete-your-account/)
+- [Delete your Login.gov account](/help/manage-your-account/delete-your-account/)
 {: .help-question-list}

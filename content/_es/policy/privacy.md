@@ -9,9 +9,9 @@ redirect_from:
 ---
 ## Nuestra declaración de la ley de privacidad ## {#our-privacy-act-statement}
 
-El servicio login.gov lo proporciona la Administración de Servicios Generales de EE. UU. para ofrecer al público un acceso en línea seguro y privado a los programas gubernamentales participantes. Con una sola cuenta de login.gov, los usuarios pueden acceder a varias agencias gubernamentales. Nuestro objetivo es hacer que la gestión de las prestaciones, servicios y aplicaciones federales sea más fácil y segura.
+El servicio Login.gov lo proporciona la Administración de Servicios Generales de EE. UU. para ofrecer al público un acceso en línea seguro y privado a los programas gubernamentales participantes. Con una sola cuenta de Login.gov, los usuarios pueden acceder a varias agencias gubernamentales. Nuestro objetivo es hacer que la gestión de las prestaciones, servicios y aplicaciones federales sea más fácil y segura.
 
-Al acceder al servicio de login.gov, reconoce y acepta esta política de privacidad y las normas de uso de login.gov. Publicaremos en esta página cualquier cambio en estas condiciones. Si los cambios afectan a nuestra gestión de su información personal o se consideran significativos por otros motivos, se lo notificaremos por correo electrónico. Si no podemos ponernos en contacto con usted por correo electrónico, nos reservamos el derecho de hacerlo por otros medios, incluido el correo postal. Si en cualquier momento deja de estar de acuerdo con esta política de privacidad o con cualquier otra condición relevante del servicio login.gov, puede cerrar su cuenta.
+Al acceder al servicio de Login.gov, reconoce y acepta esta política de privacidad y las normas de uso de Login.gov. Publicaremos en esta página cualquier cambio en estas condiciones. Si los cambios afectan a nuestra gestión de su información personal o se consideran significativos por otros motivos, se lo notificaremos por correo electrónico. Si no podemos ponernos en contacto con usted por correo electrónico, nos reservamos el derecho de hacerlo por otros medios, incluido el correo postal. Si en cualquier momento deja de estar de acuerdo con esta política de privacidad o con cualquier otra condición relevante del servicio Login.gov, puede cerrar su cuenta.
 
 ### La Autoridad - ¿Quién autoriza la recopilación de estos datos? ### {#authority}
 
@@ -19,7 +19,7 @@ La información que proporciona se recopila de conformidad con 6 USC § 1523 (b)
 
 ### El propósito - ¿Por qué necesitamos su información? ### {#purpose}
 
-Login.gov se asocia con agencias que necesitan acceso seguro y privado a sus aplicaciones y servicios. Cada agencia puede solicitar diferentes niveles de seguridad en función de sus necesidades. Cuando crea e inicia sesión en una cuenta de login.gov, se le proporciona una credencial de garantía de identidad electrónica. Necesitamos su información de identificación personal, o PII, para generar esa credencial. Imagine esta credencial como una clave que solo usted puede usar. La llave abre de forma segura la puerta al servicio o la aplicación de una agencia asociada.
+Login.gov se asocia con agencias que necesitan acceso seguro y privado a sus aplicaciones y servicios. Cada agencia puede solicitar diferentes niveles de seguridad en función de sus necesidades. Cuando crea e inicia sesión en una cuenta de Login.gov, se le proporciona una credencial de garantía de identidad electrónica. Necesitamos su información de identificación personal, o PII, para generar esa credencial. Imagine esta credencial como una clave que solo usted puede usar. La llave abre de forma segura la puerta al servicio o la aplicación de una agencia asociada.
 
 #### ¿Qué información necesitamos?
 
@@ -42,13 +42,13 @@ Su dirección de correo electrónico y número de teléfono se mantendrán duran
 
 Puede haber circunstancias en las que se nos solicite compartir ciertos datos. Por ejemplo: si la información es relevante y necesaria para un propósito policial autorizado; para responder a una infracción; o para ayudar a otra agencia a responder a una infracción. Para obtener información adicional, consulte el [sistema de notificación de registro](https://www.federalregister.gov/documents/2017/08/10/2017-16852/privacy-act-of-1974-system-of-records) número GSA / TTS-1 que el Servicio de Transformación de Tecnología (TTS) de GSA publicó el [10 de agosto de 2017](https://www.federalregister.gov/documents/2017/08/10/2017-16852/privacy-act-of-1974-system-of-records).
 
-Incluso cuando compartimos la información con las fuerzas del orden, no podemos acceder a la PII porque la información está encriptada de una manera que el equipo de login.gov no puede recuperar.
+Incluso cuando compartimos la información con las fuerzas del orden, no podemos acceder a la PII porque la información está encriptada de una manera que el equipo de Login.gov no puede recuperar.
 
 ### Consentimiento - ¿Cómo puedes controlar qué información se comparte? ### {#consent}
 
 Tú decides qué información darnos y puedes revocar el consentimiento en cualquier momento. Compartir su información es voluntario. Todos los registros se almacenan electrónicamente en una base de datos en el entorno de Amazon Web Services (AWS) de la GSA. Puede modificar o corregir su dirección de correo electrónico o su número de teléfono en la [cuenta de su página](https://secure.login.gov/account).
 
-Sin embargo, no proporcionar información completa y precisa puede retrasar el acceso a la agencia asociada. Login.gov no toma ninguna determinación de elegibilidad o idoneidad; eso es responsabilidad de los sitios web del gobierno que utilizan el servicio login.gov.
+Sin embargo, no proporcionar información completa y precisa puede retrasar el acceso a la agencia asociada. Login.gov no toma ninguna determinación de elegibilidad o idoneidad; eso es responsabilidad de los sitios web del gobierno que utilizan el servicio Login.gov.
 
 Aparte de lo especificado en esta Política de Privacidad y en nuestras Normas de Uso, nunca compartiremos su información sin su consentimiento. Sus datos están encriptados y la única forma de compartirlos con una agencia asociada es si usted, el usuario autorizado, ingresa su contraseña y otorga explícitamente su consentimiento para compartir la información.
 
@@ -62,7 +62,7 @@ Consulte el aviso del sistema de registros de Login.gov (GSA / TTS – 1) en [ww
 
 ### Análisis de sitios web - otros datos que recopilamos ### {#analytics}
 
-Otros datos, como las páginas que visita y la duración de su sesión, se agregan en informes para ayudarnos a comprender mejor cómo se utiliza el sitio y cómo podemos hacerlo más útil. Los datos se anonimizan. No hay información de identificación personal del usuario vinculada a estos datos y solo se comparte de forma anónima con el equipo de login.gov.
+Otros datos, como las páginas que visita y la duración de su sesión, se agregan en informes para ayudarnos a comprender mejor cómo se utiliza el sitio y cómo podemos hacerlo más útil. Los datos se anonimizan. No hay información de identificación personal del usuario vinculada a estos datos y solo se comparte de forma anónima con el equipo de Login.gov.
 
 ### Evaluación del impacto en la privacidad ### {#impact}
 

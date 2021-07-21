@@ -11,7 +11,7 @@ At this time, only the following state-issued identification is accepted: 
 
   * This is an identity document issued by the state/US territory that asserts identity but does not give driving privileges.
 
-You cannot verify your identity on login.gov without a state-issued ID. We’re currently working to add more ways to verify your identity.
+You cannot verify your identity on Login.gov without a state-issued ID. We’re currently working to add more ways to verify your identity.
 
 In the meantime, please contact the partner agency’s help center to find out what you can do.
 

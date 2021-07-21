@@ -59,21 +59,21 @@ contact_page:
     submit: Submit
     subtopics:
       account_locked: My account is locked for 24 hours
-      add_family_member: How do I add a family member to my login.gov account?
+      add_family_member: How do I add a family member to my Login.gov account?
       agency_app: Agency app issue
       authentication_app: How do I change my authentication method?
       authentication_app_setup: How do I set up an authentication app?
       backup_codes: How do I use my backup codes to sign in?
       blank_screen: I'm seeing an error/blank screen when creating my account
       change_email: How do I change my email?
-      change_password: How do I update my login.gov password?
+      change_password: How do I update my Login.gov password?
       change_phone_number: How do I change my phone number?
-      delete_account: How do I delete my login.gov account?
-      device_notification: I have received an alert about a new sign in on my login.gov account
-      email_delivery_issue: I am not receiving the login.gov confirmation email
-      forgot_password: I forgot my login.gov password and can't reset it
+      delete_account: How do I delete my Login.gov account?
+      device_notification: I have received an alert about a new sign in on my Login.gov account
+      email_delivery_issue: I am not receiving the Login.gov confirmation email
+      forgot_password: I forgot my Login.gov password and can't reset it
       international_number: I have an international number and am not receiving my security code
-      invalid_email: login.gov is not accepting my email address. It says it is invalid
+      invalid_email: Login.gov is not accepting my email address. It says it is invalid
       invalid_otp: Login.gov says my security code is invalid
       letter_in_mail: I didn't get my letter by mail or it expired
       locked_out: I am locked out of my account
@@ -83,7 +83,7 @@ contact_page:
       new_backup_codes: How do I get new backup codes?
       new_personal_key: How do I get a new personal key?
       no_otp_received: No OTP received
-      no_phone: I can't create my login.gov account because I don't have a phone
+      no_phone: I can't create my Login.gov account because I don't have a phone
       none: '--None--'
       other: Other
       password_issue: Password issue
@@ -100,19 +100,19 @@ contact_page:
       service_quality: Service quality
       site_navigation: I don't know where to go to create an account
       state_issued_id_error: I got an error after uploading my state-issued ID
-      unwanted_otp: I am receiving security codes from login.gov that I didn't request
+      unwanted_otp: I am receiving security codes from Login.gov that I didn't request
       verify_identity_error: I got a failure trying to verify my identity
       wrong_account_update: Wrong account update
     topics:
-      account_linking: Linking your login.gov account to your profile
-      changing_settings: Changing your login.gov information
-      creating_account: Create a login.gov account
-      feedback: Feedback for login.gov
-      not_login_gov: Not login.gov
+      account_linking: Linking your Login.gov account to your profile
+      changing_settings: Changing your Login.gov information
+      creating_account: Create a Login.gov account
+      feedback: Feedback for Login.gov
+      not_login_gov: Not Login.gov
       other: Other
       piv_cac: PIV/CAC issue
       security_codes: Login.gov security codes
-      signing_in: Signing in to your login.gov account
+      signing_in: Signing in to your Login.gov account
       verifying_identity: Verifying your identity
 feedback_form:
   'yes': "Yes"
@@ -128,7 +128,7 @@ help_page:
   p_1: Browse common topics
   title: How can we help?
   categories:
-    - title: Get started with login.gov
+    - title: Get started with Login.gov
       description: Create your account. Learn about authentication options and more account features.
       url: /help/get-started/overview/
       image: /assets/img/help/get-started.svg
@@ -149,7 +149,7 @@ help_page:
       url: /help/verify-your-identity/overview/
       image: /assets/img/help/verify-your-id.svg
 help_subpages:
-  get-started: Get started with login.gov
+  get-started: Get started with Login.gov
   trouble-signing-in: Trouble signing in?
   manage-your-account: Manage your account
   specific-agencies: Help with specific agencies
@@ -174,8 +174,8 @@ nav:
     sections:
       - name: Do you have a question about your agency account?
         url: '#do-you-have-a-question-about-your-agency-account'
-      - name: Partner with login.gov
-        url: '#partner-with-logingov'
+      - name: Partner with Login.gov
+      url: '#partner-with-logingov'
       - name: Report an issue
         url: '#report-an-issue'
   contact_login_gov: Contact Login.gov
@@ -213,9 +213,9 @@ nav:
   security: Security
   sign_in: 'Sign in with'
   skip_nav: Skip to main content
-  system_status: login.gov system status
-  what_is_login_gov: What is login.gov?
-  who_uses_login_gov: Who uses login.gov?
+  system_status: Login.gov system status
+  what_is_login_gov: What is Login.gov?
+  who_uses_login_gov: Who uses Login.gov?
 policies:
   title: Privacy & security
   sections:
@@ -260,12 +260,12 @@ policies:
 create-an-account:
   hero:
     heading: Create an account
-    text: Join the millions of people who trust login.gov for safe, secure access to government agencies.
-  intro: When you’re ready to create your secure login.gov account, you’ll need to provide a few pieces of information&#58;
+    text: Join the millions of people who trust Login.gov for safe, secure access to government agencies.
+  intro: When you’re ready to create your secure Login.gov account, you’ll need to provide a few pieces of information&#58;
   step_1: |-
     ## 1. Email address
       * We recommend a personal email address that you’ll always be able to access rather than a work email address.
-      * If you already have an account with login.gov with that email address, we’ll send you an email to let you know how you can reset your password and access the account.
+      * If you already have an account with Login.gov with that email address, we’ll send you an email to let you know how you can reset your password and access the account.
   step_2: |-
     ## 2. Secure password
       * Passwords must be at least 12 characters and should not include commonly used words or phrases.

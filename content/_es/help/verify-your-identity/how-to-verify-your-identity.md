@@ -22,7 +22,7 @@ Si te falta alguna información de este tipo, por favor ponte en contacto con la
 Login.gov es un sitio web gubernamental seguro que se apega a los estándares más altos en lo que se refiere a la protección de datos. La mayor parte de los datos que envías no se almacenan. Conoce cómo verificamos tu identidad y las [medidas de privacidad y seguridad](/es/policy/) que adoptamos para mantener tu información segura.
 
 ## Pasos para la verificación de identidad y para asegurar tu cuenta
-1. Lee los requisitos en la página que dice "Necesitamos verificar tu identidad", y si estás de acuerdo, marca el recuadro que se encuentra junto a la declaración de consentimiento informado de login.gov.
+1. Lee los requisitos en la página que dice "Necesitamos verificar tu identidad", y si estás de acuerdo, marca el recuadro que se encuentra junto a la declaración de consentimiento informado de Login.gov.
     * Haz clic en "Continuar".
 1. A continuación, sube tu identificación emitida por el estado.
     * Nota: si comenzaste el proceso de verificación de identidad en tu computadora, tienes la opción de cambiar y utilizar tu teléfono para subir imágenes.
@@ -58,8 +58,8 @@ Login.gov es un sitio web gubernamental seguro que se apega a los estándares m�
 1. Verifica que la información que has enviado hasta ahora es correcta y haz clic en "Continuar".
 1. Ingresa un número telefónico que tenga un plan a tu nombre. Este es el último paso para la verificación de identidad.
     * Si no cuentas con un plan telefónico que esté a tu nombre ni con un número telefónico de Estados Unidos, haz clic en "Obtener en su lugar un código por correo". Tendrás que esperar a recibir una carta en el correo y luego seguir las instrucciones para ingresar el código.
-1. Una vez que se haya verificado tu identidad, necesitas encriptar tu cuenta. Vuelve a ingresar tu contraseña de login.gov. Haz clic en "Continuar".
+1. Una vez que se haya verificado tu identidad, necesitas encriptar tu cuenta. Vuelve a ingresar tu contraseña de Login.gov. Haz clic en "Continuar".
 1. Toma nota de tu clave personal y mantenla en un lugar seguro. Necesitarás ingresar tu clave personal inmediatamente en la siguiente página. Haz clic en "Continuar".
 {: .number-list}
 
-Una vez que el proceso esté completo, haz clic en "Aceptar y continuar" para ser dirigido de vuelta a la página de tu cuenta de login.gov o a la agencia a la que estás tratando de tener acceso.
+Una vez que el proceso esté completo, haz clic en "Aceptar y continuar" para ser dirigido de vuelta a la página de tu cuenta de Login.gov o a la agencia a la que estás tratando de tener acceso.

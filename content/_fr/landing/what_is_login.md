@@ -1,5 +1,5 @@
 ---
-title: Qu'est-ce que login.gov?
+title: Qu'est-ce que Login.gov?
 description: Se connecter aux organismes gouvernementaux devrait être simple et sécurisé.
 already_have_an_account_banner: true
 component:
@@ -8,10 +8,10 @@ component:
     ## Un seul compte et un seul mot de passe
 
 
-    Login.gov est un service de connexion sécurisé utilisé par les utilisateurs pour se connecter aux organismes gouvernementaux participants. Les organismes participants vous demanderont de créer un compte login.gov pour accéder en toute sécurité à vos informations sur leur site Internet ou leur application.
+    Login.gov est un service de connexion sécurisé utilisé par les utilisateurs pour se connecter aux organismes gouvernementaux participants. Les organismes participants vous demanderont de créer un compte Login.gov pour accéder en toute sécurité à vos informations sur leur site Internet ou leur application.
 
 
-    Vous pouvez utiliser le même nom d'utilisateur et le même mot de passe pour accéder à n'importe quel organisme partenaire de login.gov. Cela simplifie vos démarches et vous évite d'avoir à vous souvenir de plusieurs noms d'utilisateur et mots de passe.
+    Vous pouvez utiliser le même nom d'utilisateur et le même mot de passe pour accéder à n'importe quel organisme partenaire de Login.gov. Cela simplifie vos démarches et vous évite d'avoir à vous souvenir de plusieurs noms d'utilisateur et mots de passe.
 
 
     ### **Login.gov sert à sécuriser votre compte lorsque vous souhaitez accéder à :**
@@ -36,9 +36,9 @@ component:
     ## Comment ça marche?
 
 
-    Les organismes participants utilisent login.gov afin de mieux protéger leurs utilisateurs. Lorsque vous essayerez de vous connecter à un organisme participant, vous serez invité à vous connecter ou à créer un compte sur login.gov avant de pouvoir accéder à votre profil auprès de cet organisme. 
+    Les organismes participants utilisent Login.gov afin de mieux protéger leurs utilisateurs. Lorsque vous essayerez de vous connecter à un organisme participant, vous serez invité à vous connecter ou à créer un compte sur Login.gov avant de pouvoir accéder à votre profil auprès de cet organisme.
   bannercol1: >-
-    ### Tous les organismes participants utilisent login.gov pour assurer une
+    ### Tous les organismes participants utilisent Login.gov pour assurer une
     connexion sécurisée.
 
 

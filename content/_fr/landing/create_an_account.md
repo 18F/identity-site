@@ -1,6 +1,6 @@
 ---
 title: Créer un compte
-description: Rejoignez les millions de personnes qui font confiance à login.gov
+description: Rejoignez les millions de personnes qui font confiance à Login.gov
   pour un accès sûr et sécurisé aux agences gouvernementales.
 one_account_banner: true
 permalink: /fr/create-an-account/

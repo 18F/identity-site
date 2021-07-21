@@ -1,6 +1,6 @@
 # identity-site
 
-The static marketing site for login.gov
+The static marketing site for Login.gov
 
 ## Branches
 

@@ -10,14 +10,13 @@ redirect_from:
 __Plusieurs raisons peuvent justifier le besoin de supprimer votre compte:__
 * Vous réalisez que vous avez plusieurs comptes avec différentes adresses de courriel et vous souhaitez avoir un seul compte.
 * Vous ne pouvez plus accéder à votre compte et vous n'avez plus accès à vos méthodes d'authentification.
-* Vous n'avez plus besoin d'avoir un compte login.gov
-
+* Vous n'avez plus besoin d'avoir un compte Login.gov
 __Si vous supprimez votre compte:__
 * Nous supprimerons votre adresse courriel, votre mot de passe et votre numéro de téléphone.
-* Vous ne pourrez plus accéder de manière sécurisée aux agences partenaires qui exigent un compte login.gov.
+* Vous ne pourrez plus accéder de manière sécurisée aux agences partenaires qui exigent un compte Login.gov.
 
 Après la suppression de votre compte, vous ne pourrez plus accéder aux applications gouvernementales auxquelles vous pouvez accéder
-normalement en utilisant votre compte login.gov. Vous ne perdrez pas vos informations dans ces applications, mais vous aurez besoin d'un * compte login.gov pour pouvoir vous connecter à ces applications.
+normalement en utilisant votre compte Login.gov. Vous ne perdrez pas vos informations dans ces applications, mais vous aurez besoin d'un * compte Login.gov pour pouvoir vous connecter à ces applications.
 
 __Si vous avez accès à vos méthodes d'authentification, suivez les étapes suivantes pour supprimer votre compte:__
 1. Saisissez votre adresse courriel sur [https://secure.login.gov](https://secure.login.gov).
