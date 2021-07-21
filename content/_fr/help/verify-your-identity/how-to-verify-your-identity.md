@@ -1,7 +1,7 @@
 ---
 title: Comment vérifier votre identité
 category: verify-your-identity
-order: 1
+order: 2
 ---
 
 Certaines applications gouvernementales nécessitent une vérification d'identité. Ce niveau de sécurité supplémentaire exige que vous prouviez que vous êtes vous-même – et non quelqu'un qui se fait passer pour vous.

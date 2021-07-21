@@ -2,7 +2,7 @@
 layout: help
 title: "Accepted State-Issued Identification "
 category: verify-your-identity
-order: 2
+order: 3
 ---
 At this time, only the following state-issued identification is accepted: 
 
